@@ -5,6 +5,8 @@
 python3.7 -m venv venv3
 source venv3/bin/activate
 pip3 install -r requirements.txt
+<br>
+`export api_key=40d61a5ed053486f8b3ef093551f4d40`
 
 ### deactivate venv
 
