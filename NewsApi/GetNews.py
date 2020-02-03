@@ -22,5 +22,9 @@ newsapi = NewsApiClient(api_key=api_key)
 
 all_articles = newsapi.get_everything(q='ביבי')
 
-print(all_articles)
+with open('content/json/newsdata.json', 'w', encoding='utf-8') as f:
+    with open('content/text/newsdata.txt', 'w', encoding='utf-8') as t:
+        json.dump(all_articles, f)
+        print(all_articles, file=t)
+
 # print(json.dumps(all_articles))
