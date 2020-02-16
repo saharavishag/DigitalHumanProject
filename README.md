@@ -32,3 +32,18 @@ all_articles = newsapi.get_everything(q='bitcoin',
                                       sort_by='relevancy',
                                       page=2)
 ```
+### Result structure from the API
+Json
+
+Each item:
+
+{
+    "source": {"id": "ynet", "name": "Ynet"}, 
+    "author": "...", 
+    "description": "..."", 
+    "url": "...", 
+    "urlToImage": "...", 
+    "publishedAt": 
+    "2020-01-25T16:51:00Z", 
+    "content": "..."
+}
