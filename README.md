@@ -1,9 +1,26 @@
 # DigitalHumanProject
 
 ## Summary
+This project is related to the course "Subjects in Digital humanities".
+In this project I hoped 
 
-## Related source
+## Related sources
+### News Api
+https://newsapi.org/
+### Yap - Yet Another (natural language) Parser
+https://github.com/OnlpLab/yap
+### A Unified Morpho-Syntactic Scheme of Stanford Dependencies (article)
 http://www.tsarfaty.com/pdfs/acl13.pdf
+
+## The Process
+
+## Set up and activate
+
+### Prerequirements
+* python3
+* go
+* create apikey for [NewsAPI](https://newsapi.org/)
+* install and compile [YAP](https://github.com/OnlpLab/yap) - make sure you do it inside GOPATH
 
 ### activate venv
 
@@ -12,6 +29,9 @@ source venv3/bin/activate
 pip3 install -r requirements.txt
 <br>
 `export api_key=40d61a5ed053486f8b3ef093551f4d40`
+<br>
+`export api_key=<YOUR_API_KEY>`
+
 
 ### deactivate venv
 
