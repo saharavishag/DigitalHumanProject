@@ -1,0 +1,44 @@
+1	שר	שר	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ביטחון,	ביטחון,	NN	NN	gen=M|num=S	1	gobj	_	_
+4	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	בנט,	בנט,	NNP	NNP	gen=F|gen=M|num=S	4	nn	_	_
+6	הנחה	הנחה	VB	VB	gen=M|num=S|per=3|tense=PAST	9	conj	_	_
+7	את	את	AT	AT		6	obj	_	_
+8	צה"ל	צה"ל	NNP	NNP	gen=M|num=S	7	hd	_	_
+9	ו	ו	CONJ	CONJ		23	conj	_	_
+10	כוחות	כוח	NNT	NNT	gen=M|num=P	13	subj	_	_
+11	ה	ה	DEF	DEF		12	def	_	_
+12	ביטחון	ביטחון	NN	NN	gen=M|num=S	10	gobj	_	_
+13	להוציא	הוציא	VB	VB		9	conj	_	_
+14	צו	צו	NNT	NNT	gen=M|num=S	13	obj	_	_
+15	הרחקה	הרחקה	NN	NN	gen=F|num=S	14	gobj	_	_
+16	נגד	נגד	IN	IN		13	prepmod	_	_
+17	פעילי	פעיל	NNT	NNT	gen=M|num=P	16	pobj	_	_
+18	שמאל	שמאל	NNT	NNT	gen=M|num=S	17	gobj	_	_
+19	אנרכיסטים	אנרכיסטים	NNP	NNP	gen=F|gen=M|num=S	18	gobj	_	_
+20	מ	מ	PREPOSITION	PREPOSITION		17	prepmod	_	_
+21	אזור	אזור	NNT	NNT	gen=M|num=S	20	pobj	_	_
+22	יהודה	יהודה	NNP	NNP	gen=M|num=S	21	gobj	_	_
+23	ו	ו	CONJ	CONJ		0	ROOT	_	_
+24	ש	ש	REL	REL		23	conj	_	_
+25	ומרון.	ומרון.	NNP	NNP		30	subj	_	_
+26	צווים	צו	NN	NN	gen=M|num=P	25	nn	_	_
+27	מ	מ	PREPOSITION	PREPOSITION		26	prepmod	_	_
+28	סוג	סוג	NN	NN	gen=M|num=S	27	pobj	_	_
+29	זה	זה	PRP	PRP	gen=M|num=S|per=3	28	amod	_	_
+30	הוצאו	הוצא	VB	VB	gen=F|gen=M|num=P|per=3|tense=PAST	24	ccomp	_	_
+31	עד	עד	IN	IN		32	dep	_	_
+32	כה	כה	RB	RB		30	advmod	_	_
+33	ב	ב	PREPOSITION	PREPOSITION		30	prepmod	_	_
+34	ציבור	ציבור	NN	NN	gen=M|num=S	33	pobj	_	_
+35	ה	ה	DEF	DEF		36	def	_	_
+36	יהודי	יהודי	JJ	JJ	gen=M|num=S	34	amod	_	_
+37	רק	רק	RB	RB		38	mod	_	_
+38	כנגד	כנגד	IN	IN		30	prepmod	_	_
+39	פעילי	פעיל	NNT	NNT	gen=M|num=P	38	pobj	_	_
+40	תג	תג	NN	NN	gen=M|num=S	39	gobj	_	_
+41	מ	מ	PREPOSITION	PREPOSITION		39	prepmod	_	_
+42	חיר.	חיר.	NNP	NNP		41	pobj	_	_
+
+

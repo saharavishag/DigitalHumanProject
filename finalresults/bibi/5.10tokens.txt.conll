@@ -1,0 +1,54 @@
+1	ראש	ראש	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ממשלה	ממשלה	NN	NN	gen=F|num=S	1	gobj	_	_
+4	בנימין	בנימין	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	4	nn	_	_
+6	יטוס	טס	VB	VB	gen=M|num=S|per=3|tense=FUTURE	44	qaux	_	_
+7	ב	ב	PREPOSITION	PREPOSITION		6	prepmod	_	_
+8	ה	ה	DEF	DEF		9	def	_	_
+9	ימים	ים	NN	NN	gen=M|num=P	7	pobj	_	_
+10	ה	ה	DEF	DEF		11	def	_	_
+11	קרובים	קרוב	JJ	JJ	gen=M|num=P	9	amod	_	_
+12	למוסקבה	למוסקבה	NN	NN	gen=F|num=S	6	obj	_	_
+13	כדי	כדי	IN	IN		6	prepmod	_	_
+14	להיפגש	נפגש	VB	VB		13	pcomp	_	_
+15	עם	עם	IN	IN		14	comp	_	_
+16	נשיא	נשיא	NN	NN	gen=M|num=S	15	pobj	_	_
+17	רוסיה	רוסי	JJ	JJ	gen=F|num=S	16	amod	_	_
+18	ולדימיר	ולדימיר	NNP	NNP	gen=M|num=S	16	hd	_	_
+19	פוטין.	פוטין.	NNP	NNP	gen=F|gen=M|num=S	18	nn	_	_
+20	לפי	לפי	IN	IN		14	prepmod	_	_
+21	ה	ה	DEF	DEF		22	def	_	_
+22	הערכות,	הערכות,	NN	NN	gen=M|num=S	20	pobj	_	_
+23	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	24	subj	_	_
+24	ישוב	ישוב	JJ	JJ	gen=M|num=S	22	amod	_	_
+25	ל	ל	PREPOSITION	PREPOSITION		24	mod	_	_
+26	ה	ה	DEF	DEF		27	def	_	_
+27	ארץ	ארץ	NN	NN	gen=F|num=S	25	pobj	_	_
+28	עם	עם	IN	IN		22	prepmod	_	_
+29	נעמה	נעמה	NNP	NNP	gen=F|num=S	28	pobj	_	_
+30	יששכר,	יששכר,	NNP	NNP	gen=F|gen=M|num=S	29	nn	_	_
+31	לאחר	לאחר	IN	IN		22	prepmod	_	_
+32	ש	ש	REL	REL		31	pobj	_	_
+33	זו	זו	PRP	PRP	gen=F|num=S|per=3	34	subj	_	_
+34	תקבל	קיבל	VB	VB	gen=F|num=S|per=3|tense=FUTURE	32	ccomp	_	_
+35	חנינה	חנינה	NN	NN	gen=F|num=S	34	obj	_	_
+36	מ	מ	PREPOSITION	PREPOSITION		35	prepmod	_	_
+37	ה	ה	DEF	DEF		38	def	_	_
+38	נשיא	נשיא	NN	NN	gen=M|num=S	36	pobj	_	_
+39	פוטין.	פוטין.	NNP	NNP	gen=F|gen=M|num=S	38	nn	_	_
+40	לשכת	לשכה	NNT	NNT	gen=F|num=S	39	nn	_	_
+41	ראש	ראש	NNT	NNT	gen=M|num=S	40	gobj	_	_
+42	ה	ה	DEF	DEF		43	def	_	_
+43	ממשלה	ממשלה	NN	NN	gen=F|num=S	41	gobj	_	_
+44	מנהלת	ניהל	BN	BN	gen=F|num=S|per=A	0	ROOT	_	_
+45	מגעים	מגע	NN	NN	gen=M|num=P	44	obj	_	_
+46	עם	עם	IN	IN		45	prepmod	_	_
+47	ה	ה	DEF	DEF		48	def	_	_
+48	קרמלין	קרמלין	NN	NN	gen=M|num=S	46	pobj	_	_
+49	ל	ל	PREPOSITION	PREPOSITION		45	prepmod	_	_
+50	תיאום	תיאום	NNT	NNT	gen=M|num=S	49	pobj	_	_
+51	ה	ה	DEF	DEF		52	def	_	_
+52	ביקור.	ביקור.	NN	NN	gen=F|num=S	50	gobj	_	_
+
+

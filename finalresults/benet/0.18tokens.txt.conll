@@ -1,0 +1,46 @@
+1	כ-30		NCD	NCD		2	det	_	_
+2	חקלאים	חקלאי	NN	NN	gen=M|num=P	3	obj	_	_
+3	הגיעו	הגיע	VB	VB	gen=F|gen=M|num=P|per=3|tense=PAST	0	ROOT	_	_
+4	עם	עם	IN	IN		3	prepmod	_	_
+5	עגלים	עגל	NN	NN	gen=M|num=P	4	pobj	_	_
+6	ל	ל	PREPOSITION	PREPOSITION		3	comp	_	_
+7	ביתו	בית	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=3	6	pobj	_	_
+8	של	של	POS	POS		7	gen	_	_
+9	שר	שר	NNT	NNT	gen=M|num=S	8	gobj	_	_
+10	ה	ה	DEF	DEF		11	def	_	_
+11	ביטחון,	ביטחון,	NN	NN	gen=M|num=S	9	gobj	_	_
+12	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	9	nn	_	_
+13	בנט,	בנט,	NNP	NNP	gen=F|gen=M|num=S	12	nn	_	_
+14	ב	ב	PREPOSITION	PREPOSITION		7	prepmod	_	_
+15	מטרה	מטרה	NN	NN	gen=F|num=S	14	pobj	_	_
+16	להפגין	הפגין	VB	VB		15	mod	_	_
+17	נגד	נגד	IN	IN		16	prepmod	_	_
+18	ה	ה	DEF	DEF		19	def	_	_
+19	חרם	חרם	NN	NN	gen=M|num=S	17	pobj	_	_
+20	ה	ה	DEF	DEF		21	def	_	_
+21	פלסטיני	פלסטיני	JJ	JJ	gen=M|num=S	19	amod	_	_
+22	על	על	IN	IN		19	prepmod	_	_
+23	ה	ה	DEF	DEF		24	def	_	_
+24	סחורה	סחורה	NN	NN	gen=F|num=S	22	pobj	_	_
+25	עליהם.	עליהם.	NNP	NNP	gen=F|gen=M|num=S	24	nn	_	_
+26	החקלאים,	החקלאים,	NNP	NNP	gen=F|gen=M|num=S	25	nn	_	_
+27	ש	ש	REL	REL		24	rcmod	_	_
+28	רוצים	רצה	BN	BN	gen=M|num=P|per=A	27	relcomp	_	_
+29	ש	ש	REL	REL		28	comp	_	_
+30	ב	ב	PREPOSITION	PREPOSITION		32	prepmod	_	_
+31	נט	נט	NNP	NNP		30	pobj	_	_
+32	יפעל	נפעל	VB	VB	gen=M|num=S|per=3|tense=FUTURE	29	ccomp	_	_
+33	נגד	נגד	IN	IN		32	prepmod	_	_
+34	ה	ה	DEF	DEF		35	def	_	_
+35	חרם,	חרם,	NN	NN	gen=M|num=S	33	pobj	_	_
+36	ביקשו	ביקש	VB	VB	gen=F|gen=M|num=P|per=3|tense=PAST	32	xcomp	_	_
+37	מ	מ	PREPOSITION	PREPOSITION		36	comp	_	_
+38	שר	שר	NNT	NNT	gen=M|num=S	37	pobj	_	_
+39	ה	ה	DEF	DEF		40	def	_	_
+40	ביטחון	ביטחון	NN	NN	gen=M|num=S	38	gobj	_	_
+41	לצאת	יצא	VB	VB		42	prd	_	_
+42	ו	ו	CONJ	CONJ		36	xcomp	_	_
+43	לדבר	דיבר	VB	VB		42	conj	_	_
+44	איתם.	איתם.	NN	NN	gen=M|num=S	43	obj	_	_
+
+

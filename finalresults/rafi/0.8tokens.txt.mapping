@@ -1,0 +1,52 @@
+0	1	הסתיימה	הסתיים	VB	VB	gen=F|num=S|per=3|tense=PAST	1
+1	2	ה	ה	DEF	DEF	_	2
+2	3	פגישה	פגישה	NN	NN	gen=F|num=S	2
+3	4	בין	בין	IN	IN	_	3
+4	5	רפי	רף	NNT	NNT	gen=M|num=P	4
+5	6	פרץ	פרץ	NN	NN	gen=M|num=S	5
+6	7	ו	ו	CONJ	CONJ	_	6
+7	8	נפתלי	נפתל	JJT	JJT	gen=M|num=P	6
+8	9	ב	ב	PREPOSITION	PREPOSITION	_	7
+9	10	נט	נט	NN	NN	gen=F|num=P	7
+10	11	ש	ש	REL	REL	_	8
+11	12	ה	ה	DEF	DEF	_	8
+12	13	תקייימה	תקייימה	NN	NN	gen=M|num=S	8
+13	14	ב	ב	PREPOSITION	PREPOSITION	_	9
+14	15	משרדו	משרד	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=3	9
+15	16	של	של	POS	POS	_	10
+16	17	ראש	ראש	NNT	NNT	gen=M|num=S	11
+17	18	ה	ה	DEF	DEF	_	12
+18	19	ממשלה	ממשלה	NN	NN	gen=F|num=S	12
+19	20	בנימין	בנימין	NNP	NNP	gen=M|num=S	13
+20	21	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	14
+21	22	בירושלים.	בירושלים.	NNP	NNP	gen=F|gen=M|num=S	15
+22	23	בין	בין	IN	IN	_	16
+23	24	ה	ה	DEF	DEF	_	17
+24	25	צדדים	צד	NN	NN	gen=M|num=P	17
+25	26	סוכם	סוכם	VB	VB	gen=M|num=S|per=3|tense=PAST	18
+26	27	על	על	IN	IN	_	19
+27	28	ריצה	ריצה	NN	NN	gen=F|num=S	20
+28	29	משותפת	משותף	JJ	JJ	gen=F|num=S	21
+29	30	ו	ו	CONJ	CONJ	_	22
+30	31	על	על	IN	IN	_	22
+31	32	סדר	סדר	NNT	NNT	gen=M|num=S	23
+32	33	ה	ה	DEF	DEF	_	24
+33	34	רשימה,	רשימה,	NN	NN	gen=M|num=S	24
+34	35	אך	אך	CC	CC	_	25
+35	36	כ	כ	PREPOSITION	PREPOSITION	_	26
+36	37	רגע	רגע	NN	NN	gen=M|num=S	26
+37	38	ללא	ללא	IN	IN	_	27
+38	39	איתמר	איתמר	NNP	NNP	gen=M|num=S	28
+39	40	בן	בן	NNT	NNT	gen=M|num=S	29
+40	41	גביר,	גביר,	NN	NN	gen=M|num=P|num=S	30
+41	42	ש	ש	REL	REL	_	31
+42	43	לא	לא	RB	RB	_	31
+43	44	ישובץ	שובץ	VB	VB	gen=M|num=S|per=3|tense=FUTURE	32
+44	45	ב	ב	PREPOSITION	PREPOSITION	_	33
+45	46	ה	ה	DEF	DEF	_	33
+46	47	רשימה.	רשימה.	NN	NN	gen=M|num=S	33
+
+
+
+
+

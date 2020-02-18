@@ -1,0 +1,59 @@
+1	יו"ר	יו"ר	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	עבודה-גשר-מרצ,	עבודה-גשר-מרצ,	NN	NN	gen=M|num=S	1	gobj	_	_
+4	עמיר	עמיר	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	פרץ,	פרץ,	NNP	NNP	gen=F|gen=M|num=S	4	nn	_	_
+6	התייחס	התייחס	VB	VB	gen=M|num=S|per=3|tense=PAST	16	conj	_	_
+7	ל	ל	PREPOSITION	PREPOSITION		6	comp	_	_
+8	תוכנית	תוכנייה	NNT	NNT	gen=F|num=S	7	pobj	_	_
+9	ה	ה	DEF	DEF		10	def	_	_
+10	שלום	שלום	NN	NN	gen=M|num=S	8	gobj	_	_
+11	של	של	POS	POS		8	posspmod	_	_
+12	נשיא	נשיא	NNT	NNT	gen=M|num=S	11	gobj	_	_
+13	ארה"ב	ארה"ב	NNP	NNP	gen=F|num=S	12	gobj	_	_
+14	דונלד	דונלד	NNP	NNP	gen=F|gen=M|num=S	13	nn	_	_
+15	טראמפ	טראמפ	NNP	NNP	gen=F|gen=M|num=S	13	nn	_	_
+16	ו	ו	CONJ	CONJ		26	conj	_	_
+17	אמר:	אמר:	NNP	NNP	gen=M|num=S	16	conj	_	_
+18	"יסודות	"יסודות	NNP	NNP	gen=F|gen=M|num=S	17	nn	_	_
+19	ה	ה	DEF	DEF		20	def	_	_
+20	תוכנית	תוכני	JJ	JJ	gen=F|num=S	16	amod	_	_
+21	ל	ל	PREPOSITION	PREPOSITION		16	comp	_	_
+22	חיזוק	חיזוק	NNT	NNT	gen=M|num=S	21	pobj	_	_
+23	ביטחונה	ביטחון	NN	NN	gen=M|num=S|suf_gen=F|suf_num=S|suf_per=3	22	gobj	_	_
+24	של	של	POS	POS		22	posspmod	_	_
+25	ישראל	ישראל	NNP	NNP	gen=M|num=S	24	gobj	_	_
+26	ו	ו	CONJ	CONJ		33	conj	_	_
+27	ל	ל	PREPOSITION	PREPOSITION		26	conj	_	_
+28	קיום	קיום	NNT	NNT	gen=M|num=S	27	pobj	_	_
+29	תהליך	תהליך	NN	NN	gen=M|num=S	28	gobj	_	_
+30	של	של	POS	POS		29	gen	_	_
+31	מו"מ	מו"מ	NN	NN	gen=M|num=S	30	gobj	_	_
+32	חשובים,	חשובים,	NNP	NNP	gen=F|gen=M|num=S	31	nn	_	_
+33	אך	אך	CC	CC		38	mod	_	_
+34	ה	ה	DEF	DEF		35	def	_	_
+35	מבחן	מבחן	NN	NN	gen=M|num=S	37	subj	_	_
+36	הוא	הוא	COP	COP	gen=M|num=S|per=3	37	cop	_	_
+37	אם	אם	NN	NN	gen=F|num=S	33	conj	_	_
+38	ניתן	ניתן	MD	MD	gen=M|num=S|per=A	49	conj	_	_
+39	להפוך	הפך	VB	VB		38	xcomp	_	_
+40	את	את	AT	AT		39	obj	_	_
+41	הם	הם	S_PRN	S_PRN	gen=M|num=P|per=3	40	hd	_	_
+42	ל	ל	PREPOSITION	PREPOSITION		39	prepmod	_	_
+43	מהלך	מהלך	NN	NN	gen=M|num=S	42	pobj	_	_
+44	של	של	POS	POS		43	posspmod	_	_
+45	היפרדות	היפרדות	NN	NN	gen=F|num=S	44	gobj	_	_
+46	מ	מ	PREPOSITION	PREPOSITION		45	prepmod	_	_
+47	ה	ה	DEF	DEF		48	def	_	_
+48	פלסטינים,	פלסטינים,	NN	NN	gen=M|num=S	46	pobj	_	_
+49	ו	ו	CONJ	CONJ		0	ROOT	_	_
+50	לא	לא	RB	RB		51	mod	_	_
+51	ל	ל	PREPOSITION	PREPOSITION		49	conj	_	_
+52	ה	ה	DEF	DEF		53	def	_	_
+53	מהלך	מהלך	NN	NN	gen=M|num=S	51	pobj	_	_
+54	של	של	POS	POS		53	posspmod	_	_
+55	סיפוח	סיפוח	NN	NN	gen=M|num=S	54	gobj	_	_
+56	חד	חד	JJ	JJ	gen=M|num=S	55	amod	_	_
+57	צדדי".	צדדי".	NNP	NNP	gen=F|gen=M|num=S	55	nn	_	_
+
+

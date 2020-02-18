@@ -1,0 +1,57 @@
+1	חבר	חבר	NNT	NNT	gen=M|num=S	8	subj	_	_
+2	הכנסת	הכנסה	NNT	NNT	gen=F|num=S	1	gobj	_	_
+3	יאיר	יאיר	NNP	NNP	gen=M|num=S	2	gobj	_	_
+4	לפיד	לפיד	NNP	NNP		3	nn	_	_
+5	(כחול	(כחול	NNP	NNP	gen=F|gen=M|num=S	3	nn	_	_
+6	ל	ל	PREPOSITION	PREPOSITION		1	prepmod	_	_
+7	בן)	בן)	NNP	NNP		6	pobj	_	_
+8	התייחס	התייחס	VB	VB	gen=M|num=S|per=3|tense=PAST	13	conj	_	_
+9	ל	ל	PREPOSITION	PREPOSITION		8	comp	_	_
+10	סל	סל	NNT	NNT	gen=M|num=S	9	pobj	_	_
+11	ה	ה	DEF	DEF		12	def	_	_
+12	תרופות	תרופה	NN	NN	gen=F|num=P	10	gobj	_	_
+13	ו	ו	CONJ	CONJ		0	ROOT	_	_
+14	אמר	אמר	VB	VB	gen=M|num=S|per=3|tense=PAST	13	conj	_	_
+15	כי	כי	CC	CC		14	comp	_	_
+16	"במדינה	"במדינה	NNP	NNP	gen=F|gen=M|num=S	17	obj	_	_
+17	מתוקנת	תוקן	BN	BN	gen=F|num=S|per=A	15	ccomp	_	_
+18	סל	סל	NNT	NNT	gen=M|num=S	17	subj	_	_
+19	ה	ה	DEF	DEF		20	def	_	_
+20	תרופות	תרופה	NN	NN	gen=F|num=P	18	gobj	_	_
+21	צריך	צריך	MD	MD	gen=M|num=S|per=A	17	xcomp	_	_
+22	להיות	היה	COP	COP	num=S	21	aux	_	_
+23	לפחות	לפחות	RB	RB		24	det	_	_
+24	מיליארד	מיליארד	CD	CD	gen=M|num=P	21	xcomp	_	_
+25	ש	ש	REL	REL		21	ccomp	_	_
+26	קל.	קל.	NNP	NNP	gen=F|gen=M|num=S	41	subj	_	_
+27	אם	אם	CC	CC		41	ccomp	_	_
+28	אפשר	אפשר	MD	MD		27	ccomp	_	_
+29	לקנות	קנה	VB	VB		28	xcomp	_	_
+30	מטוס	מטוס	NN	NN	gen=M|num=S	29	obj	_	_
+31	ל	ל	PREPOSITION	PREPOSITION		29	comp	_	_
+32	ראש	ראש	NNT	NNT	gen=M|num=S	31	pobj	_	_
+33	ה	ה	DEF	DEF		34	def	_	_
+34	ממשלה	ממשלה	NN	NN	gen=F|num=S	32	gobj	_	_
+35	ב	ב	PREPOSITION	PREPOSITION		32	prepmod	_	_
+36	סכום	סכום	NNT	NNT	gen=M|num=S	35	pobj	_	_
+37	ה	ה	DEF	DEF		38	def	_	_
+38	זה,	זה,	NN	NN	gen=F|num=S	36	gobj	_	_
+39	אז	אז	RB	RB		41	advmod	_	_
+40	אז	אז	RB	RB		41	advmod	_	_
+41	אפשר	אפשר	MD	MD		25	ccomp	_	_
+42	גם	גם	RB	RB		43	det	_	_
+43	תרופות".	תרופות".	NNP	NNP	gen=F|gen=M|num=S	41	advmod	_	_
+44	תקציב	תקציב	NNT	NNT	gen=M|num=S	50	subj	_	_
+45	סל	סל	NNT	NNT	gen=M|num=S	44	gobj	_	_
+46	ה	ה	DEF	DEF		47	def	_	_
+47	תרופות	תרופה	NN	NN	gen=F|num=P	45	gobj	_	_
+48	ה	ה	DEF	DEF		49	def	_	_
+49	סופי	סופי	JJ	JJ	gen=M|num=S	45	amod	_	_
+50	היה	היה	COP	COP	gen=M|num=S|per=3	41	conj	_	_
+51	500		CD	CD		50	prd	_	_
+52	מיליון	מיליון	CD	CD	gen=M|num=P	51	nn	_	_
+53	ש	ש	REL	REL		50	comp	_	_
+54	קל.	קל.	NNP	NNP	gen=F|gen=M|num=S	53	ccomp	_	_
+
+
+

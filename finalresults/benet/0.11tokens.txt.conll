@@ -1,0 +1,69 @@
+1	שר	שר	NNT	NNT	gen=M|num=S	10	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	עלייה	עלייה	NN	NN	gen=F|num=S	4	conj	_	_
+4	ו	ו	CONJ	CONJ		1	gobj	_	_
+5	ה	ה	DEF	DEF		6	def	_	_
+6	קליטה	קליטה	NN	NN	gen=F|num=S	4	conj	_	_
+7	יואב	יואב	NNP	NNP		1	nn	_	_
+8	גלנט	גלנט	NNP	NNP	gen=F|gen=M|num=S	7	nn	_	_
+9	(הליכוד)	(הליכוד)	NNP	NNP	gen=F|gen=M|num=S	7	nn	_	_
+10	ביקר	ביקר	VB	VB	gen=M|num=S|per=3|tense=PAST	20	conj	_	_
+11	ב	ב	PREPOSITION	PREPOSITION		10	prepmod	_	_
+12	חריפות	חריפות	NN	NN	gen=F|num=S	11	pobj	_	_
+13	את	את	AT	AT		10	obj	_	_
+14	התנהלות	התנהלות	NNT	NNT	gen=F|num=S	13	hd	_	_
+15	שר	שר	NNT	NNT	gen=M|num=S	14	gobj	_	_
+16	ה	ה	DEF	DEF		17	def	_	_
+17	ביטחון	ביטחון	NN	NN	gen=M|num=S	15	gobj	_	_
+18	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	15	nn	_	_
+19	בנט	בנט	NNP	NNP	gen=F|gen=M|num=S	18	nn	_	_
+20	ו	ו	CONJ	CONJ		66	prepmod	_	_
+21	אמר	אמר	VB	VB	gen=M|num=S|per=3|tense=PAST	20	conj	_	_
+22	כי	כי	CC	CC		21	comp	_	_
+23	"מתברר	"מתברר	NN	NN	gen=M|num=S	34	subj	_	_
+24	שמי	שמי	JJ	JJ	gen=M|num=S	23	amod	_	_
+25	ש	ש	REL	REL		23	rcmod	_	_
+26	פיזר	פיזר	VB	VB	gen=M|num=S|per=3|tense=PAST	25	relcomp	_	_
+27	דברי	דבר	NNT	NNT	gen=M|num=P	26	subj	_	_
+28	רהב	רהב	NNT	NNT	gen=M|num=S	27	gobj	_	_
+29	חסרי	חסר	NNT	NNT	gen=M|num=P	28	gobj	_	_
+30	ערך	ערך	NN	NN	gen=M|num=S	29	gobj	_	_
+31	ב	ב	PREPOSITION	PREPOSITION		28	prepmod	_	_
+32	ה	ה	DEF	DEF		33	def	_	_
+33	עבר,	עבר,	NN	NN	gen=M|num=S	31	pobj	_	_
+34	לוקה	לקה	BN	BN	gen=F|num=S|per=A	22	ccomp	_	_
+35	ב	ב	PREPOSITION	PREPOSITION		34	prepmod	_	_
+36	ה	ה	DEF	DEF		37	def	_	_
+37	הנת	הנת	NN	NN	gen=M|num=S	35	pobj	_	_
+38	ה	ה	DEF	DEF		39	def	_	_
+39	מצב	מצב	NN	NN	gen=M|num=S	40	hd	_	_
+40	ו	ו	CONJ	CONJ		34	obj	_	_
+41	מתן	מתן	NNT	NNT	gen=M|num=S	40	hd	_	_
+42	מענה	מענה	NN	NN	gen=M|num=S	41	gobj	_	_
+43	הולם	הולם	JJ	JJ	gen=M|num=S	42	amod	_	_
+44	ל	ל	PREPOSITION	PREPOSITION		41	prepmod	_	_
+45	ה	ה	DEF	DEF		46	def	_	_
+46	ו".	ו".	NN	NN	gen=M|num=P	44	pobj	_	_
+47	ל	ל	PREPOSITION	PREPOSITION		41	prepmod	_	_
+48	דבריו,	דבריו,	NN	NN	gen=M|num=S	47	pobj	_	_
+49	"הקבינט	"הקבינט	NNP	NNP	gen=F|gen=M|num=S	48	nn	_	_
+50	מ	מ	PREPOSITION	PREPOSITION		41	prepmod	_	_
+51	אפשר	אפשר	MD	MD		50	pobj	_	_
+52	ל	ל	PREPOSITION	PREPOSITION		41	prepmod	_	_
+53	שר	שר	NNT	NNT	gen=M|num=S	52	pobj	_	_
+54	ה	ה	DEF	DEF		55	def	_	_
+55	ביטחון	ביטחון	NN	NN	gen=M|num=S	53	gobj	_	_
+56	לפעול	פעל	VB	VB		34	xcomp	_	_
+57	אחרת,	אחרת,	NN	NN	gen=M|num=S	56	obj	_	_
+58	צריך	צריך	JJ	JJ	gen=M|num=S	59	conj	_	_
+59	ו	ו	CONJ	CONJ		57	amod	_	_
+60	ניתן	ניתן	MD	MD	gen=M|num=S|per=A	59	conj	_	_
+61	לשנות	שנה	VB	VB		60	xcomp	_	_
+62	את	את	AT	AT		61	obj	_	_
+63	ה	ה	DEF	DEF		64	def	_	_
+64	מצב,	מצב,	NN	NN	gen=M|num=S	62	hd	_	_
+65	אני	הוא	PRP	PRP	gen=F|gen=M|num=S|per=1	66	subj	_	_
+66	יודע	ידע	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+67	זאת".	זאת".	NN	NN	gen=M|num=S	66	obj	_	_
+
+

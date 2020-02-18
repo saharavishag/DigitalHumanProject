@@ -1,0 +1,47 @@
+1	שר	שר	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ביטחון	ביטחון	NN	NN	gen=M|num=S	1	gobj	_	_
+4	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	בנט	בנט	NNP	NNP	gen=F|gen=M|num=S	4	nn	_	_
+6	אמר	אמר	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+7	כי	כי	CC	CC		6	comp	_	_
+8	"האיחוד	"האיחוד	NN	NN	gen=M|num=S	14	subj	_	_
+9	ב	ב	PREPOSITION	PREPOSITION		8	prepmod	_	_
+10	ה	ה	DEF	DEF		11	def	_	_
+11	ימין	ימין	NN	NN	gen=M|num=S	9	pobj	_	_
+12	הוא	הוא	COP	COP	gen=M|num=S|per=3	14	cop	_	_
+13	לא	לא	RB	RB		14	det	_	_
+14	בלוק	בלוק	NN	NN	gen=M|num=S	7	ccomp	_	_
+15	טכני,	טכני,	NNP	NNP	gen=F|gen=M|num=S	14	nn	_	_
+16	רשימת	רשימה	NNT	NNT	gen=F|num=S	14	nn	_	_
+17	ימינה	ימין	NN	NN	gen=M|num=S|suf_gen=F|suf_num=S|suf_per=3	16	gobj	_	_
+18	תישאר	נשאר	VB	VB	gen=F|num=S|per=3|tense=FUTURE	14	xcomp	_	_
+19	סיעה	סיעה	NN	NN	gen=F|num=S	18	obj	_	_
+20	מאוחדת	מאוחד	JJ	JJ	gen=F|num=S	19	amod	_	_
+21	אחרי	אחרי	IN	IN		18	prepmod	_	_
+22	ה	ה	DEF	DEF		23	def	_	_
+23	בחירות".	בחירות".	NN	NN	gen=M|num=S	21	pobj	_	_
+24	ל	ל	PREPOSITION	PREPOSITION		23	prepmod	_	_
+25	דבריו,	דבריו,	NNP	NNP		24	pobj	_	_
+26	"אני	"אני	NNP	NNP	gen=F|gen=M|num=S	25	nn	_	_
+27	גאה	גאה	VB	VB	gen=M|num=S|per=3|tense=PAST	21	pcomp	_	_
+28	להנהיג	הנהיג	VB	VB		27	prd	_	_
+29	תנועה	תנועה	NN	NN	gen=F|num=S	28	obj	_	_
+30	ש	ש	REL	REL		29	rcmod	_	_
+31	מחברת	חיבר	BN	BN	gen=F|num=S|per=A	38	conj	_	_
+32	את	את	AT	AT		31	obj	_	_
+33	כל	כול	DTT	DTT		35	det	_	_
+34	ה	ה	DEF	DEF		35	def	_	_
+35	ימין	ימין	NN	NN	gen=M|num=S	32	hd	_	_
+36	ה	ה	DEF	DEF		37	def	_	_
+37	אידיאולוגי	אידיאולוגי	JJ	JJ	gen=M|num=S	35	amod	_	_
+38	ו	ו	CONJ	CONJ		30	relcomp	_	_
+39	את	את	AT	AT		45	obj	_	_
+40	כל	כול	DTT	DTT		41	det	_	_
+41	גווני	גוון	NNT	NNT	gen=M|num=P	39	hd	_	_
+42	ה	ה	DEF	DEF		43	def	_	_
+43	ציונות	ציונות	NN	NN	gen=F|num=S	41	gobj	_	_
+44	ה	ה	DEF	DEF		45	def	_	_
+45	דתית".	דתית".	NNP	NNP	gen=F|gen=M|num=S	38	conj	_	_
+
+

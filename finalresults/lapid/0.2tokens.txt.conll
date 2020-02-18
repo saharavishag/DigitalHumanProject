@@ -1,0 +1,69 @@
+1	ח"כ	ח"כ	NN	NN	gen=M|num=S	2	subj	_	_
+2	יאיר	האיר	VB	VB	gen=M|num=S|per=3|tense=FUTURE	32	conj	_	_
+3	ל	ל	PREPOSITION	PREPOSITION		2	prepmod	_	_
+4	פיד,	פיד,	NN	NN	gen=F|num=S	3	pobj	_	_
+5	מספר	מספר	DTT	DTT		6	det	_	_
+6	2		CD	CD		2	dep	_	_
+7	ב	ב	PREPOSITION	PREPOSITION		2	prepmod	_	_
+8	כ	כ	ADVERB	ADVERB		9	det	_	_
+9	חול	חול	NN	NN	gen=M|num=S	7	pobj	_	_
+10	ל	ל	PREPOSITION	PREPOSITION		9	prepmod	_	_
+11	ה	ה	DEF	DEF		12	def	_	_
+12	בן,	בן,	NN	NN	gen=M|num=P	10	pobj	_	_
+13	התייחס	התייחס	VB	VB	gen=M|num=S|per=3|tense=PAST	2	xcomp	_	_
+14	ל	ל	PREPOSITION	PREPOSITION		13	comp	_	_
+15	פרסום	פרסום	NN	NN	gen=M|num=S	14	pobj	_	_
+16	ב	ב	PREPOSITION	PREPOSITION		13	prepmod	_	_
+17	-ynet	-ynet	NN	NN	gen=F|num=P	16	pobj	_	_
+18	ש	ש	REL	REL		17	rcmod	_	_
+19	לפי	לפי	IN	IN		21	prepmod	_	_
+20	הוא	הוא	S_PRN	S_PRN	gen=M|num=S|per=3	19	pobj	_	_
+21	החליט	החליט	VB	VB	gen=M|num=S|per=3|tense=PAST	18	relcomp	_	_
+22	משרד	משרד	NNT	NNT	gen=M|num=S	21	subj	_	_
+23	ה	ה	DEF	DEF		24	def	_	_
+24	תחבורה	תחבורה	NN	NN	gen=F|num=S	22	gobj	_	_
+25	על	על	IN	IN		21	comp	_	_
+26	ביטול	ביטול	NNT	NNT	gen=M|num=S	25	pobj	_	_
+27	נסיעות	נסיעה	NNT	NNT	gen=F|num=P	26	gobj	_	_
+28	אוטובוסים	אוטובוס	NN	NN	gen=M|num=P	27	gobj	_	_
+29	ב	ב	PREPOSITION	PREPOSITION		26	prepmod	_	_
+30	ה	ה	DEF	DEF		31	def	_	_
+31	שבת	שבת	NN	NN	gen=F|num=S	29	pobj	_	_
+32	ו	ו	CONJ	CONJ		39	prepmod	_	_
+33	אמר:	אמר:	NNP	NNP	gen=M|num=S	37	hd	_	_
+34	"תהיה	"תהיה	NNP	NNP	gen=F|gen=M|num=S	33	nn	_	_
+35	ממשלה	ממשלה	NN	NN	gen=F|num=S	33	nn	_	_
+36	אחרת,	אחרת,	NNP	NNP	gen=F|gen=M|num=S	35	nn	_	_
+37	ו	ו	CONJ	CONJ		32	conj	_	_
+38	סטטוס	סטטוס	NN	NN	gen=M|num=S	37	hd	_	_
+39	קוו	קיווה	VB	VB	gen=F|gen=M|num=P|per=2|tense=IMPERATIVE	62	conj	_	_
+40	אחר.	אחר.	NNP	NNP	gen=F|gen=M|num=S	39	subj	_	_
+41	לא	לא	RB	RB		42	neg	_	_
+42	נוותר	ויתר	VB	VB	gen=F|gen=M|num=P|per=1|tense=FUTURE	39	xcomp	_	_
+43	ל	ל	PREPOSITION	PREPOSITION		42	comp	_	_
+44	ה	ה	DEF	DEF		45	def	_	_
+45	הם".	הם".	NN	NN	gen=M|num=P	43	pobj	_	_
+46	מוקדם	מוקדם	RB	RB		42	advmod	_	_
+47	יותר	יותר	RB	RB		46	mod	_	_
+48	הגיב	הגיב	VB	VB	gen=M|num=S|per=3|tense=PAST	42	ccomp	_	_
+49	על	על	IN	IN		48	comp	_	_
+50	ה	ה	DEF	DEF		51	def	_	_
+51	פרסום	פרסום	NN	NN	gen=M|num=S	49	pobj	_	_
+52	שר	שר	NNT	NNT	gen=M|num=S	57	hd	_	_
+53	ה	ה	DEF	DEF		54	def	_	_
+54	תחבורה,	תחבורה,	NNP	NNP	gen=F|gen=M|num=S	52	gobj	_	_
+55	בצלאל	בצלאל	NNP	NNP	gen=M|num=S	52	nn	_	_
+56	סמוטריץ',	סמוטריץ',	NNP	NNP	gen=F|gen=M|num=S	55	nn	_	_
+57	ו	ו	CONJ	CONJ		48	subj	_	_
+58	מסר:	מסר:	NNP	NNP	gen=M|num=S	57	hd	_	_
+59	"יש	"יש	NNP	NNP	gen=F|gen=M|num=S	58	nn	_	_
+60	סטטוס	סטטוס	NN	NN	gen=M|num=S	58	nn	_	_
+61	קוו,	קוו,	NNP	NNP	gen=F|gen=M|num=S	58	nn	_	_
+62	ו	ו	CONJ	CONJ		0	ROOT	_	_
+63	הוא	הוא	PRP	PRP	gen=M|num=S|per=3	66	subj	_	_
+64	לא	לא	RB	RB		66	det	_	_
+65	ה	ה	DEF	DEF		66	def	_	_
+66	שתנה".	שתנה".	NN	NN	gen=M|num=P	62	conj	_	_
+
+
+

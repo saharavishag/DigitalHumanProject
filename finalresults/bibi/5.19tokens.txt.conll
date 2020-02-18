@@ -1,0 +1,51 @@
+1	ראש	ראש	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ממשלה	ממשלה	NN	NN	gen=F|num=S	1	gobj	_	_
+4	בנימין	בנימין	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	4	nn	_	_
+6	נועד	נועד	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+7	ב	ב	PREPOSITION	PREPOSITION		6	prepmod	_	_
+8	מעונו	מעון	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=3	7	pobj	_	_
+9	ש	ש	REL	REL		8	rcmod	_	_
+10	ב	ב	PREPOSITION	PREPOSITION		9	relcomp	_	_
+11	ירושלים	ירושלים	NNP	NNP	gen=F|num=S	10	pobj	_	_
+12	עם	עם	IN	IN		9	mwe	_	_
+13	נשיא	נשיא	NNT	NNT	gen=M|num=S	17	subj	_	_
+14	צרפת	צרפת	NNP	NNP	gen=F|num=S	13	gobj	_	_
+15	עמנואל	עמנואל	NNP	NNP	gen=M|num=S	14	nn	_	_
+16	מקרון.	מקרון.	NNP	NNP	gen=F|gen=M|num=S	14	nn	_	_
+17	נשיא	השיא	VB	VB	gen=F|gen=M|num=P|per=1|tense=FUTURE	30	conj	_	_
+18	צרפת	צירף	VB	VB	gen=M|num=S|per=2|tense=PAST	17	xcomp	_	_
+19	הגיע	הגיע	VB	VB	gen=M|num=S|per=3|tense=PAST	18	prd	_	_
+20	ל	ל	PREPOSITION	PREPOSITION		19	comp	_	_
+21	ישראל	ישראל	NNP	NNP	gen=F|num=S	20	pobj	_	_
+22	אמש	אמש	RB	RB		19	advmod	_	_
+23	ב	ב	PREPOSITION	PREPOSITION		19	prepmod	_	_
+24	מסגרת	מסגרת	NN	NN	gen=F|num=S	23	compound	_	_
+25	פורום	פורום	NNT	NNT	gen=M|num=S	24	pobj	_	_
+26	ה	ה	DEF	DEF		27	det	_	_
+27	שואה	שואה	NN	NN	gen=F|num=S	25	gobj	_	_
+28	ה	ה	DEF	DEF		29	def	_	_
+29	בינלאומי	בינלאומי	JJ	JJ	gen=M|num=S	27	amod	_	_
+30	ו	ו	CONJ	CONJ		12	xcomp	_	_
+31	ייפגש	נפגש	VB	VB	gen=M|num=S|per=3|tense=FUTURE	30	conj	_	_
+32	ב	ב	PREPOSITION	PREPOSITION		31	prepmod	_	_
+33	המשך	המשך	NNT	NNT	gen=M|num=S	32	pobj	_	_
+34	ה	ה	DEF	DEF		35	def	_	_
+35	יום	יום	NN	NN	gen=M|num=S	33	gobj	_	_
+36	גם	גם	RB	RB		37	mod	_	_
+37	עם	עם	IN	IN		31	comp	_	_
+38	יו"ר	יו"ר	NN	NN	gen=M|num=S	37	pobj	_	_
+39	כחול	כחול	JJ	JJ	gen=M|num=S	38	amod	_	_
+40	לבן	לבן	JJ	JJ	gen=M|num=S	38	amod	_	_
+41	בני	בן	NNT	NNT	gen=M|num=P	38	hd	_	_
+42	גנץ	גנץ	NN	NN	gen=F|num=S	41	gobj	_	_
+43	ו	ו	CONJ	CONJ		38	rcmod	_	_
+44	עם	עם	IN	IN		43	relcomp	_	_
+45	נשיא	נשיא	NNT	NNT	gen=M|num=S	44	pobj	_	_
+46	ה	ה	DEF	DEF		47	def	_	_
+47	מדינה	מדינה	NN	NN	gen=F|num=S	45	gobj	_	_
+48	ראובן	ראובן	NNP	NNP	gen=M|num=S	45	nn	_	_
+49	ריבלין.	ריבלין.	NNP	NNP	gen=F|gen=M|num=S	48	nn	_	_
+
+

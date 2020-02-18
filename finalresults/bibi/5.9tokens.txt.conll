@@ -1,0 +1,50 @@
+1	ראש	ראש	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ממשלה	ממשלה	NN	NN	gen=F|num=S	1	gobj	_	_
+4	בנימין	בנימין	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	4	nn	_	_
+6	התייחס	התייחס	VB	VB	gen=M|num=S|per=3|tense=PAST	23	conj	_	_
+7	ל	ל	PREPOSITION	PREPOSITION		6	comp	_	_
+8	מסיבת	מסיבה	NNT	NNT	gen=F|num=S	7	pobj	_	_
+9	ה	ה	DEF	DEF		10	def	_	_
+10	עיתונאים	עיתונאי	NN	NN	gen=M|num=P	8	gobj	_	_
+11	ב	ב	PREPOSITION	PREPOSITION		8	prepmod	_	_
+12	ה	ה	DEF	DEF		13	def	_	_
+13	ין	ין	NN	NN	gen=M|num=S	11	pobj	_	_
+14	אבו	אבה	VB	VB	gen=F|gen=M|num=P|per=3|tense=PAST	6	xcomp	_	_
+15	מ	מ	PREPOSITION	PREPOSITION		14	comp	_	_
+16	אזן	אוזן	NN	NN	gen=F|num=S	15	pobj	_	_
+17	ל	ל	PREPOSITION	PREPOSITION		16	prepmod	_	_
+18	ה	ה	DEF	DEF		19	def	_	_
+19	אהוד	אהד	BN	BN	gen=M|num=S|per=A	17	pobj	_	_
+20	אולמרט	אולמרט	NNP	NNP	gen=M|num=S	19	nn	_	_
+21	בניו	בן	NN	NN	gen=M|num=P|suf_gen=M|suf_num=S|suf_per=3	20	nn	_	_
+22	יורק,	יורק,	NNP	NNP	gen=F|gen=M|num=S	21	nn	_	_
+23	ו	ו	CONJ	CONJ		0	ROOT	_	_
+24	מתח	מתח	VB	VB	gen=M|num=S|per=3|tense=PAST	23	conj	_	_
+25	ביקורת	ביקורת	NN	NN	gen=F|num=S	24	obj	_	_
+26	על	על	IN	IN		25	prepmod	_	_
+27	ה	ה	DEF	DEF		28	def	_	_
+28	אחרון	אחרון	JJ	JJ	gen=M|num=S	26	pobj	_	_
+29	ש	ש	REL	REL		25	rcmod	_	_
+30	הסכים	הסכים	VB	VB	gen=M|num=S|per=3|tense=PAST	29	relcomp	_	_
+31	ל	ל	PREPOSITION	PREPOSITION		30	comp	_	_
+32	קיימה.	קיימה.	NNP	NNP		31	pobj	_	_
+33	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	32	nn	_	_
+34	כינה	כינה	VB	VB	gen=M|num=S|per=3|tense=PAST	30	xcomp	_	_
+35	את	את	AT	AT		34	obj	_	_
+36	ה	ה	DEF	DEF		37	def	_	_
+37	פגישה	פגישה	NN	NN	gen=F|num=S	35	hd	_	_
+38	בין	בין	IN	IN		37	prepmod	_	_
+39	ה	ה	DEF	DEF		40	def	_	_
+40	שניים	שני	CD	CD	gen=M|num=P	38	pobj	_	_
+41	"נקודת	"נקודת	NN	NN	gen=M|num=S	38	pobj	_	_
+42	שפל	שפל	JJ	JJ	gen=M|num=S	41	amod	_	_
+43	ב	ב	PREPOSITION	PREPOSITION		37	prepmod	_	_
+44	ה	ה	DEF	DEF		45	def	_	_
+45	היסטוריה	היסטוריה	NN	NN	gen=F|num=S	43	pobj	_	_
+46	של	של	POS	POS		45	posspmod	_	_
+47	מדינת	מדינה	NNT	NNT	gen=F|num=S	46	gobj	_	_
+48	ישראל".	ישראל".	NNP	NNP	gen=F|gen=M|num=S	47	gobj	_	_
+
+

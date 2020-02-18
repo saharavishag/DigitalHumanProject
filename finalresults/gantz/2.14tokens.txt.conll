@@ -1,0 +1,56 @@
+1	יו"ר	יו"ר	NN	NN	gen=M|num=S	8	subj	_	_
+2	כחול	כחול	JJ	JJ	gen=M|num=S	1	amod	_	_
+3	ל	ל	PREPOSITION	PREPOSITION		1	prepmod	_	_
+4	ה	ה	DEF	DEF		5	def	_	_
+5	בן,	בן,	NN	NN	gen=M|num=P	3	pobj	_	_
+6	בני	בן	NNT	NNT	gen=M|num=P	1	hd	_	_
+7	גנץ,	גנץ,	NN	NN	gen=M|num=S	6	gobj	_	_
+8	התייחס	התייחס	VB	VB	gen=M|num=S|per=3|tense=PAST	41	subj	_	_
+9	ל	ל	PREPOSITION	PREPOSITION		8	comp	_	_
+10	פרסום	פרסום	NN	NN	gen=M|num=S	9	pobj	_	_
+11	ב	ב	PREPOSITION	PREPOSITION		8	prepmod	_	_
+12	-ynet	-ynet	NN	NN	gen=F|num=P	11	pobj	_	_
+13	ש	ש	REL	REL		12	rcmod	_	_
+14	לפי	לפי	IN	IN		19	prepmod	_	_
+15	הוא	הוא	S_PRN	S_PRN	gen=M|num=S|per=3	14	pobj	_	_
+16	משרד	משרד	NNT	NNT	gen=M|num=S	19	subj	_	_
+17	ה	ה	DEF	DEF		18	def	_	_
+18	תחבורה	תחבורה	NN	NN	gen=F|num=S	16	gobj	_	_
+19	ביטל	ביטל	VB	VB	gen=M|num=S|per=3|tense=PAST	13	relcomp	_	_
+20	עשרות	עשר	CDT	CDT	gen=F|num=P	21	num	_	_
+21	קווי	קו	NNT	NNT	gen=M|num=P	19	obj	_	_
+22	אוטובוס	אוטובוס	NN	NN	gen=M|num=S	21	gobj	_	_
+23	ש	ש	REL	REL		21	rcmod	_	_
+24	נסעו	נסע	VB	VB	gen=F|gen=M|num=P|per=3|tense=PAST	23	relcomp	_	_
+25	ב	ב	PREPOSITION	PREPOSITION		24	prepmod	_	_
+26	ה	ה	DEF	DEF		27	def	_	_
+27	שבת	שבת	NN	NN	gen=F|num=S	25	pobj	_	_
+28	ו	ו	CONJ	CONJ		21	det	_	_
+29	אמר:	אמר:	NNP	NNP	gen=M|num=S	34	conj	_	_
+30	"ננצח	"ננצח	NNP	NNP	gen=F|gen=M|num=S	29	nn	_	_
+31	ב	ב	PREPOSITION	PREPOSITION		29	prepmod	_	_
+32	ה	ה	DEF	DEF		33	def	_	_
+33	בחירות	בחירה	NN	NN	gen=F|num=P	31	pobj	_	_
+34	ו	ו	CONJ	CONJ		21	hd	_	_
+35	נתקן".	נתקן".	NNP	NNP	gen=F|gen=M|num=S	34	conj	_	_
+36	ל	ל	PREPOSITION	PREPOSITION		21	prepmod	_	_
+37	דבריו,	דבריו,	NNP	NNP		36	pobj	_	_
+38	"מדינת	"מדינת	NNP	NNP	gen=F|gen=M|num=S	37	nn	_	_
+39	ישראל	ישראל	NNP	NNP	gen=F|num=S	37	nn	_	_
+40	היא	הוא	COP	COP	gen=F|num=S|per=3	41	cop	_	_
+41	מדינה	מדינה	NN	NN	gen=F|num=S	50	advmod	_	_
+42	יהודית	יהודי	JJ	JJ	gen=F|num=S	43	conj	_	_
+43	ו	ו	CONJ	CONJ		41	amod	_	_
+44	לא	לא	RB	RB		45	det	_	_
+45	מדינת	מדינה	NNT	NNT	gen=F|num=S	43	conj	_	_
+46	ה	ה	DEF	DEF		47	def	_	_
+47	לכה.	לכה.	NN	NN	gen=M|num=S	45	gobj	_	_
+48	כל	כול	DTT	DTT		49	det	_	_
+49	אחד	אחד	CD	CD	gen=M|num=S	45	nn	_	_
+50	יוכל	יכול	MD	MD	gen=M|num=S|per=2|tense=FUTURE	0	ROOT	_	_
+51	לחיות	חי	VB	VB		50	xcomp	_	_
+52	על	על	IN	IN		51	prepmod	_	_
+53	פי	פה	NNT	NNT	gen=M|num=S	52	mwe	_	_
+54	דרכו".	דרכו".	NNP	NNP	gen=F|gen=M|num=S	52	pobj	_	_
+
+

@@ -1,0 +1,65 @@
+1	שר	שר	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ביטחון	ביטחון	NN	NN	gen=M|num=S	1	gobj	_	_
+4	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	בנט	בנט	NNP	NNP	gen=F|gen=M|num=S	4	nn	_	_
+6	נפגש	נפגש	BN	BN	gen=M|num=S|per=A	0	ROOT	_	_
+7	עם	עם	IN	IN		6	prepmod	_	_
+8	שר	שר	NNT	NNT	gen=M|num=S	7	pobj	_	_
+9	ה	ה	DEF	DEF		10	def	_	_
+10	הגנה	הגנה	NN	NN	gen=F|num=S	8	gobj	_	_
+11	ה	ה	DEF	DEF		12	def	_	_
+12	אמריקני	אמריקני	JJ	JJ	gen=M|num=S	8	amod	_	_
+13	מארק	מארק	NNP	NNP		8	hd	_	_
+14	אספר	אספר	NNP	NNP	gen=M|num=S	13	nn	_	_
+15	בפנטגון.	בפנטגון.	NNP	NNP	gen=F|gen=M|num=S	13	nn	_	_
+16	נמסר	נמסר	VB	VB	gen=M|num=S|per=3|tense=PAST	6	xcomp	_	_
+17	כי	כי	CC	CC		16	ccomp	_	_
+18	ה	ה	DEF	DEF		19	def	_	_
+19	שניים	שני	CD	CD	gen=M|num=P	20	subj	_	_
+20	"דנו	"דנו	NN	NN	gen=M|num=P|num=S	29	conj	_	_
+21	ב	ב	PREPOSITION	PREPOSITION		20	prepmod	_	_
+22	ה	ה	DEF	DEF		23	def	_	_
+23	הרחבה	הרחבה	NN	NN	gen=F|num=S	21	pobj	_	_
+24	ב	ב	PREPOSITION	PREPOSITION		20	prepmod	_	_
+25	ה	ה	DEF	DEF		26	def	_	_
+26	איומים	איום	NN	NN	gen=M|num=P	24	pobj	_	_
+27	ה	ה	DEF	DEF		28	def	_	_
+28	אזוריים,	אזוריים,	NNP	NNP	gen=F|gen=M|num=S	26	amod	_	_
+29	ו	ו	CONJ	CONJ		17	ccomp	_	_
+30	ב	ב	PREPOSITION	PREPOSITION		29	conj	_	_
+31	ראשם	ראש	NN	NN	gen=M|num=S|suf_gen=M|suf_num=P|suf_per=3	30	pobj	_	_
+32	ה	ה	DEF	DEF		33	def	_	_
+33	תוקפנות	תוקפנות	NN	NN	gen=F|num=S	30	subj	_	_
+34	ה	ה	DEF	DEF		35	def	_	_
+35	איראנית,	איראנית,	NNP	NNP	gen=F|gen=M|num=S	33	amod	_	_
+36	ב	ב	PREPOSITION	PREPOSITION		33	prepmod	_	_
+37	ה	ה	DEF	DEF		38	def	_	_
+38	דגש	דגש	NN	NN	gen=M|num=S	36	pobj	_	_
+39	על	על	IN	IN		33	prepmod	_	_
+40	ניסיונותיה	ניסיון	NN	NN	gen=M|num=P|suf_gen=F|suf_num=S|suf_per=3	39	pobj	_	_
+41	של	של	POS	POS		40	gen	_	_
+42	איראן	איראן	NNP	NNP	gen=M|num=S	41	gobj	_	_
+43	להתבסס	התבסס	VB	VB		40	mod	_	_
+44	צבאית	צבאי	JJ	JJ	gen=F|num=S	43	advmod	_	_
+45	על	על	IN	IN		43	comp	_	_
+46	אדמת	אדמת	NNT	NNT	gen=F|num=S	45	pobj	_	_
+47	סוריה".	סוריה".	NNP	NNP	gen=F|gen=M|num=S	46	gobj	_	_
+48	זו	זו	PRP	PRP	gen=F|num=S|per=3	46	amod	_	_
+49	הייתה	היה	COP	COP	gen=F|num=S|per=3|tense=PAST	51	cop	_	_
+50	ה	ה	DEF	DEF		51	def	_	_
+51	פגישה	פגישה	NN	NN	gen=F|num=S	29	posspmod	_	_
+52	ה	ה	DEF	DEF		54	dep	_	_
+53	ראשונה	ראשונה	RB	RB		54	mod	_	_
+54	בין	בין	IN	IN		51	prepmod	_	_
+55	ה	ה	DEF	DEF		56	def	_	_
+56	שניים	שני	CD	CD	gen=M|num=P	54	pobj	_	_
+57	מ	מ	PREPOSITION	PREPOSITION		51	prepmod	_	_
+58	אז	אז	RB	RB		57	compound	_	_
+59	כ	כ	ADVERB	ADVERB		60	det	_	_
+60	ניסתו	ניסה	NN	NN	gen=F|num=S|suf_gen=M|suf_num=S|suf_per=3	58	pobj	_	_
+61	של	של	POS	POS		60	gen	_	_
+62	בנט	בנט	NNP	NNP	gen=F|gen=M|num=S	61	gobj	_	_
+63	לתפקיד.	לתפקיד.	NNP	NNP	gen=F|gen=M|num=S	62	nn	_	_
+
+

@@ -1,0 +1,49 @@
+1	נשיא	נשיא	NNT	NNT	gen=M|num=S	5	subj	_	_
+2	רוסיה	רוסי	NN	NN	gen=F|num=S	1	gobj	_	_
+3	ולדימיר	ולדימיר	NNP	NNP	gen=M|num=S	1	nn	_	_
+4	פוטין	פוטין	NNP	NNP		3	nn	_	_
+5	נפגש	נפגש	VB	VB	gen=M|num=S|per=3|tense=PAST	12	conj	_	_
+6	עם	עם	IN	IN		5	prepmod	_	_
+7	ראש	ראש	NNT	NNT	gen=M|num=S	6	pobj	_	_
+8	ה	ה	DEF	DEF		9	def	_	_
+9	ממשלה	ממשלה	NN	NN	gen=F|num=S	7	gobj	_	_
+10	בנימין	בנימין	NNP	NNP	gen=M|num=S	7	nn	_	_
+11	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	10	nn	_	_
+12	ו	ו	CONJ	CONJ		0	ROOT	_	_
+13	רעייתו	רעייה	NN	NN	gen=F|num=S|suf_gen=M|suf_num=S|suf_per=3	14	subj	_	_
+14	שרה	שר	VB	VB	gen=F|num=S|per=3|tense=PAST	12	conj	_	_
+15	ב	ב	PREPOSITION	PREPOSITION		14	prepmod	_	_
+16	מעון	מעון	NNT	NNT	gen=M|num=S	15	pobj	_	_
+17	ראש	ראש	NNT	NNT	gen=M|num=S	16	gobj	_	_
+18	ה	ה	DEF	DEF		19	def	_	_
+19	ממשלה	ממשלה	NN	NN	gen=F|num=S	17	gobj	_	_
+20	ש	ש	REL	REL		16	rcmod	_	_
+21	ב	ב	PREPOSITION	PREPOSITION		27	prepmod	_	_
+22	ה	ה	DEF	DEF		23	def	_	_
+23	ירושלים.	ירושלים.	NN	NN	gen=M|num=S	21	pobj	_	_
+24	ב	ב	PREPOSITION	PREPOSITION		23	prepmod	_	_
+25	ה	ה	DEF	DEF		26	def	_	_
+26	פגישה	פגישה	NN	NN	gen=F|num=S	24	pobj	_	_
+27	תשתתף	השתתף	VB	VB	gen=F|num=S|per=3|tense=FUTURE	20	relcomp	_	_
+28	גם	גם	RB	RB		29	mod	_	_
+29	יפה	יפה	RB	RB		27	advmod	_	_
+30	יששכר,	יששכר,	NNP	NNP	gen=F|gen=M|num=S	27	subj	_	_
+31	אמה	אמה	NN	NN	gen=M|num=S|suf_gen=F|suf_num=S|suf_per=3	27	parataxis	_	_
+32	של	של	POS	POS		31	gen	_	_
+33	נעמה	נעמה	NNP	NNP	gen=F|num=S	32	gobj	_	_
+34	ה	ה	DEF	DEF		35	def	_	_
+35	כלואה	כלוא	JJ	JJ	gen=F|num=S	33	amod	_	_
+36	ב	ב	PREPOSITION	PREPOSITION		31	prepmod	_	_
+37	מוסקבה.	מוסקבה.	NNP	NNP		36	pobj	_	_
+38	לאחר	לאחר	IN	IN		27	prepmod	_	_
+39	מ	מ	PREPOSITION	PREPOSITION		38	prep	_	_
+40	כן	כן	NN	NN	gen=M|num=S	39	pobj	_	_
+41	ייפגש	נפגש	VB	VB	gen=M|num=S|per=3|tense=FUTURE	27	xcomp	_	_
+42	עם	עם	IN	IN		41	comp	_	_
+43	נשיא	נשיא	NNT	NNT	gen=M|num=S	47	subj	_	_
+44	ה	ה	DEF	DEF		45	def	_	_
+45	מדינה	מדינה	NN	NN	gen=F|num=S	43	gobj	_	_
+46	ראובן	ראובן	NNP	NNP	gen=M|num=S	43	nn	_	_
+47	ריבלין.	ריבלין.	NNP	NNP	gen=F|gen=M|num=S	42	pobj	_	_
+
+

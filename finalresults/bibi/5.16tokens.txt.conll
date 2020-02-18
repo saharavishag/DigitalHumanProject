@@ -1,0 +1,40 @@
+1	ישראל	ישראל	NNP	NNP	gen=F|num=S	2	subj	_	_
+2	תקפיא	הקפיא	VB	VB	gen=F|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+3	את	את	AT	AT		2	obj	_	_
+4	ה	ה	DEF	DEF		5	def	_	_
+5	קשרים	קשר	NN	NN	gen=M|num=P	3	hd	_	_
+6	עם	עם	IN	IN		5	prepmod	_	_
+7	נציבות	נציבה	NNT	NNT	gen=F|num=P	6	pobj	_	_
+8	זכויות	זכות	NNT	NNT	gen=F|num=P	7	gobj	_	_
+9	ה	ה	DEF	DEF		10	def	_	_
+10	אדם	אדם	NN	NN	gen=M|num=S	8	gobj	_	_
+11	של	של	POS	POS		8	posspmod	_	_
+12	ה	ה	DEF	DEF		13	def	_	_
+13	או"ם,	או"ם,	NN	NN	gen=M|num=S	11	gobj	_	_
+14	בעקבות	בעקבות	IN	IN		2	prepmod	_	_
+15	פרסום	פרסום	NNT	NNT	gen=M|num=S	14	pobj	_	_
+16	"הרשימה	"הרשימה	NN	NN	gen=M|num=S	15	gobj	_	_
+17	ה	ה	DEF	DEF		18	def	_	_
+18	שחורה"	שחורה"	NN	NN	gen=M|num=S	16	hd	_	_
+19	של	של	POS	POS		16	gen	_	_
+20	ה	ה	DEF	DEF		21	def	_	_
+21	עסקים	עסק	NN	NN	gen=M|num=P	19	gobj	_	_
+22	ה	ה	DEF	DEF		23	def	_	_
+23	קשורים	קשור	JJ	JJ	gen=M|num=P	21	amod	_	_
+24	ל	ל	PREPOSITION	PREPOSITION		15	prepmod	_	_
+25	התנחלויות.	התנחלויות.	NNP	NNP		24	pobj	_	_
+26	ה	ה	DEF	DEF		27	def	_	_
+27	החלטה	החלטה	NN	NN	gen=F|num=S	14	pobj	_	_
+28	התקבלה	התקבל	VB	VB	gen=F|num=S|per=3|tense=PAST	27	mod	_	_
+29	ב	ב	PREPOSITION	PREPOSITION		28	prepmod	_	_
+30	הנחיית	הנחיה	NNT	NNT	gen=F|num=S	29	pobj	_	_
+31	ראש	ראש	NNT	NNT	gen=M|num=S	30	gobj	_	_
+32	ה	ה	DEF	DEF		33	def	_	_
+33	ממשלה	ממשלה	NN	NN	gen=F|num=S	31	gobj	_	_
+34	ב	ב	PREPOSITION	PREPOSITION		30	prepmod	_	_
+35	ה	ה	DEF	DEF		36	def	_	_
+36	נימין	הימין	VB	VB	gen=F|gen=M|num=P|per=1|tense=FUTURE	34	pobj	_	_
+37	נתניהו.	נתניהו.	NNP	NNP	gen=F|gen=M|num=S	36	nn	_	_
+
+
+

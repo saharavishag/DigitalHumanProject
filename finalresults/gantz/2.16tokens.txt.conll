@@ -1,0 +1,35 @@
+1	נשיא	נשיא	NNT	NNT	gen=M|num=S	5	subj	_	_
+2	ארה"ב	ארה"ב	NNP	NNP	gen=F|num=S	1	gobj	_	_
+3	דונלד	דונלד	NNP	NNP	gen=F|gen=M|num=S	2	nn	_	_
+4	טראמפ	טראמפ	NNP	NNP	gen=F|gen=M|num=S	2	nn	_	_
+5	נפגש	נפגש	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+6	ב	ב	PREPOSITION	PREPOSITION		5	prepmod	_	_
+7	שעה	שעה	NN	NN	gen=F|num=S	6	pobj	_	_
+8	זו	זו	PRP	PRP	gen=F|num=S|per=3	7	amod	_	_
+9	עם	עם	IN	IN		5	prepmod	_	_
+10	יו"ר	יו"ר	NN	NN	gen=M|num=S	9	pobj	_	_
+11	כחול	כחול	JJ	JJ	gen=M|num=S	10	amod	_	_
+12	ל	ל	PREPOSITION	PREPOSITION		5	comp	_	_
+13	בן	בן	NNT	NNT	gen=M|num=S	12	pobj	_	_
+14	בני	בן	NNT	NNT	gen=M|num=P	13	gobj	_	_
+15	גנץ.	גנץ.	NNP	NNP	gen=F|gen=M|num=S	14	gobj	_	_
+16	הפגישה	הפגיש	VB	VB	gen=F|num=S|per=3|tense=PAST	5	xcomp	_	_
+17	מתקיימת	התקיים	BNT	BNT	gen=F|num=S|per=A	16	obj	_	_
+18	זמן	זמן	NN	NN	gen=M|num=S	17	gobj	_	_
+19	קצר	קצר	JJ	JJ	gen=M|num=S	18	amod	_	_
+20	לאחר	לאחר	IN	IN		16	prepmod	_	_
+21	ש	ש	REL	REL		20	pobj	_	_
+22	ה	ה	DEF	DEF		23	def	_	_
+23	נשיא	נשיא	NN	NN	gen=M|num=S	26	subj	_	_
+24	ה	ה	DEF	DEF		25	def	_	_
+25	אמריקני	אמריקני	JJ	JJ	gen=M|num=S	23	amod	_	_
+26	נפגש	נפגש	VB	VB	gen=M|num=S|per=3|tense=PAST	21	ccomp	_	_
+27	עם	עם	IN	IN		26	prepmod	_	_
+28	ראש	ראש	NNT	NNT	gen=M|num=S	27	pobj	_	_
+29	ה	ה	DEF	DEF		30	def	_	_
+30	ממשלה	ממשלה	NN	NN	gen=F|num=S	28	gobj	_	_
+31	בנימין	בנימין	NNP	NNP	gen=M|num=S	28	nn	_	_
+32	נתניהו.	נתניהו.	NNP	NNP	gen=F|gen=M|num=S	31	nn	_	_
+
+
+

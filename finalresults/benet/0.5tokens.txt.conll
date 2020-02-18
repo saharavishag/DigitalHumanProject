@@ -1,0 +1,67 @@
+1	שר	שר	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ביטחון	ביטחון	NN	NN	gen=M|num=S	1	gobj	_	_
+4	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	בנט	בנט	NNP	NNP	gen=F|gen=M|num=S	4	nn	_	_
+6	ימריא	המריא	VB	VB	gen=M|num=S|per=3|tense=FUTURE	0	ROOT	_	_
+7	היום	היום	RB	RB		6	tmod	_	_
+8	ל	ל	PREPOSITION	PREPOSITION		6	comp	_	_
+9	וושינגטון	ואשינגטון	NNP	NNP		8	pobj	_	_
+10	ל	ל	PREPOSITION	PREPOSITION		6	prepmod	_	_
+11	פגישת	פגישה	NNT	NNT	gen=F|num=S	10	pobj	_	_
+12	עבודה	עבודה	NN	NN	gen=F|num=S	11	gobj	_	_
+13	ראשונה	ראשונה	RB	RB		14	mod	_	_
+14	עם	עם	IN	IN		6	prepmod	_	_
+15	שר	שר	NNT	NNT	gen=M|num=S	14	pobj	_	_
+16	ה	ה	DEF	DEF		17	def	_	_
+17	הגנה	הגנה	NN	NN	gen=F|num=S	15	gobj	_	_
+18	ה	ה	DEF	DEF		19	def	_	_
+19	אמריקני,	אמריקני,	NNP	NNP	gen=F|gen=M|num=S	15	amod	_	_
+20	מארק	מארק	NNP	NNP		15	hd	_	_
+21	אספר,	אספר,	NNP	NNP	gen=F|gen=M|num=S	20	nn	_	_
+22	בפנטגון.	בפנטגון.	NNP	NNP	gen=F|gen=M|num=S	20	nn	_	_
+23	מ	מ	PREPOSITION	PREPOSITION		15	prepmod	_	_
+24	לשכת	לשכה	NNT	NNT	gen=F|num=S	23	pobj	_	_
+25	שר	שר	NNT	NNT	gen=M|num=S	24	gobj	_	_
+26	ה	ה	DEF	DEF		27	def	_	_
+27	ביטחון	ביטחון	NN	NN	gen=M|num=S	25	gobj	_	_
+28	נמסר	נמסר	VB	VB	gen=M|num=S|per=3|tense=PAST	6	xcomp	_	_
+29	כי	כי	CC	CC		28	ccomp	_	_
+30	ה	ה	DEF	DEF		31	def	_	_
+31	שניים	שני	CD	CD	gen=M|num=P	32	subj	_	_
+32	"ידונו	"ידונו	NN	NN	gen=M|num=P|num=S	43	conj	_	_
+33	ב	ב	PREPOSITION	PREPOSITION		32	prepmod	_	_
+34	ה	ה	DEF	DEF		35	def	_	_
+35	איומים	איום	NN	NN	gen=M|num=P	33	pobj	_	_
+36	ה	ה	DEF	DEF		37	def	_	_
+37	אזוריים	אזורי	JJ	JJ	gen=M|num=P	35	amod	_	_
+38	ב	ב	PREPOSITION	PREPOSITION		35	prepmod	_	_
+39	ה	ה	DEF	DEF		40	def	_	_
+40	מזרח	מזרח	NN	NN	gen=M|num=S	38	pobj	_	_
+41	ה	ה	DEF	DEF		42	def	_	_
+42	תיכון	תיכון	JJ	JJ	gen=M|num=S	40	amod	_	_
+43	ו	ו	CONJ	CONJ		29	ccomp	_	_
+44	בכלל	בכלל	RB	RB		45	mod	_	_
+45	זה	זה	PRP	PRP	gen=M|num=S|per=3	43	conj	_	_
+46	ב	ב	PREPOSITION	PREPOSITION		43	prepmod	_	_
+47	תוקפנות	תוקפנות	NNT	NNT	gen=F|num=S	46	pobj	_	_
+48	ה	ה	DEF	DEF		49	def	_	_
+49	איראנית".	איראנית".	NN	NN	gen=M|num=S	47	gobj	_	_
+50	ב	ב	PREPOSITION	PREPOSITION		47	prepmod	_	_
+51	ה	ה	DEF	DEF		52	def	_	_
+52	מהלך	מהלך	NN	NN	gen=M|num=S	50	pobj	_	_
+53	ש	ש	REL	REL		52	rcmod	_	_
+54	ה	ה	DEF	DEF		56	dep	_	_
+55	ותו	ותו	RB	RB		56	advmod	_	_
+56	ייפגש	נפגש	VB	VB	gen=M|num=S|per=3|tense=FUTURE	53	relcomp	_	_
+57	ב	ב	PREPOSITION	PREPOSITION		56	prepmod	_	_
+58	נט	נט	NN	NN	gen=F|num=S	57	pobj	_	_
+59	עם	עם	IN	IN		56	prepmod	_	_
+60	גורמים	גורם	NN	NN	gen=M|num=P	59	pobj	_	_
+61	נוספים	נוסף	JJ	JJ	gen=M|num=P	60	amod	_	_
+62	ב	ב	PREPOSITION	PREPOSITION		60	prepmod	_	_
+63	ה	ה	DEF	DEF		64	def	_	_
+64	ממשל	ממשל	NN	NN	gen=M|num=S	62	pobj	_	_
+65	ה	ה	DEF	DEF		66	def	_	_
+66	אמריקני.	אמריקני.	NNP	NNP	gen=F|gen=M|num=S	64	amod	_	_
+

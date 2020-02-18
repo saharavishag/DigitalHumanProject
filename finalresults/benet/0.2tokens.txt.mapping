@@ -1,0 +1,25 @@
+0	1	ה	ה	DEF	DEF	_	1
+1	2	ליכוד	ליכוד	NN	NN	gen=M|num=S	1
+2	3	ו	ו	CONJ	CONJ	_	2
+3	4	רשימת	רשימה	NNT	NNT	gen=F|num=S	2
+4	5	ימינה	ימין	NN	NN	gen=M|num=S|suf_gen=F|suf_num=S|suf_per=3	3
+5	6	חתמו	חתם	VB	VB	gen=F|gen=M|num=P|per=3|tense=PAST	4
+6	7	על	על	IN	IN	_	5
+7	8	הסכם	הסכם	NN	NN	gen=M|num=S	6
+8	9	עודפים	עודף	JJ	JJ	gen=M|num=P	7
+9	10	ב	ב	PREPOSITION	PREPOSITION	_	8
+10	11	ה	ה	DEF	DEF	_	8
+11	12	בחירות	בחירה	NN	NN	gen=F|num=P	8
+12	13	ל	ל	PREPOSITION	PREPOSITION	_	9
+13	14	ה	ה	DEF	DEF	_	9
+14	15	כנסת	כנסת	NNP	NNP	gen=F|num=S	9
+15	16	ה-23.	_	NCD	NCD	_	10
+16	17	כך	כך	RB	RB	_	11
+17	18	מסר	מסר	VB	VB	gen=M|num=S|per=3|tense=PAST	12
+18	19	יו"ר	יו"ר	NN	NN	gen=M|num=S	13
+19	20	ימינה,	ימינה,	NNP	NNP	gen=F|gen=M|num=S	14
+20	21	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	15
+21	22	בנט.	בנט.	NNP	NNP	gen=F|gen=M|num=S	16
+
+
+

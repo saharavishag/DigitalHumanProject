@@ -1,0 +1,26 @@
+1	שר	שר	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ביטחון	ביטחון	NN	NN	gen=M|num=S	1	gobj	_	_
+4	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	בנט	בנט	NNP	NNP	gen=F|gen=M|num=S	4	nn	_	_
+6	אמר	אמר	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+7	ב	ב	PREPOSITION	PREPOSITION		6	prepmod	_	_
+8	כנס	כנס	NNT	NNT	gen=M|num=S	7	pobj	_	_
+9	ה	ה	DEF	DEF		10	def	_	_
+10	-INSS	-INSS	NN	NN	gen=F|num=S	8	gobj	_	_
+11	כי	כי	CC	CC		6	comp	_	_
+12	דחיית	דחייה	NNT	NNT	gen=F|num=S	16	subj	_	_
+13	החלת	החלה	NNT	NNT	gen=F|num=S	12	gobj	_	_
+14	ה	ה	DEF	DEF		15	def	_	_
+15	ריבונות	ריבונות	NN	NN	gen=F|num=S	13	gobj	_	_
+16	תהיה	היה	COP	COP	gen=F|num=S|per=3	11	ccomp	_	_
+17	"שגיאה	"שגיאה	NN	NN	gen=F|num=S	16	prd	_	_
+18	נוראה	נורא	JJ	JJ	gen=F|num=S	19	conj	_	_
+19	ו	ו	CONJ	CONJ		17	amod	_	_
+20	אין	אין	EX	EX		19	conj	_	_
+21	שום	שום	DTT	DTT		22	det	_	_
+22	סיבה	סיבה	NN	NN	gen=F|num=S	20	subj	_	_
+23	לעשות	עשה	VB	VB		22	mod	_	_
+24	את	את	AT	AT		23	obj	_	_
+25	זה".	זה".	NNP	NNP	gen=F|gen=M|num=S	24	hd	_	_
+

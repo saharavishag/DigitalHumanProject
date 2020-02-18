@@ -1,0 +1,54 @@
+1	ראש	ראש	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ממשלה	ממשלה	NN	NN	gen=F|num=S	1	gobj	_	_
+4	בנימין	בנימין	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	4	nn	_	_
+6	אמר	אמר	VB	VB	gen=M|num=S|per=3|tense=PAST	22	conj	_	_
+7	ל	ל	PREPOSITION	PREPOSITION		6	comp	_	_
+8	סגן	סגן	NNT	NNT	gen=M|num=S	7	pobj	_	_
+9	ה	ה	DEF	DEF		10	def	_	_
+10	נשיא	נשיא	NN	NN	gen=M|num=S	8	gobj	_	_
+11	ה	ה	DEF	DEF		12	def	_	_
+12	אמריקני	אמריקני	JJ	JJ	gen=M|num=S	10	amod	_	_
+13	מייק	מייק	NNP	NNP	gen=F|gen=M|num=S	8	nn	_	_
+14	פנס:	פנס:	NNP	NNP	gen=F|gen=M|num=S	13	nn	_	_
+15	"ההזמנה	"ההזמנה	NNP	NNP	gen=F|gen=M|num=S	13	nn	_	_
+16	ל	ל	PREPOSITION	PREPOSITION		8	prepmod	_	_
+17	וושינגטון	ואשינגטון	NNP	NNP		16	pobj	_	_
+18	היא	הוא	COP	COP	gen=F|num=S|per=3	19	cop	_	_
+19	ביטוי	ביטוי	NN	NN	gen=M|num=S	6	obj	_	_
+20	ל	ל	PREPOSITION	PREPOSITION		6	prepmod	_	_
+21	שלום	שלום	NN	NN	gen=M|num=S	20	pobj	_	_
+22	ו	ו	CONJ	CONJ		0	ROOT	_	_
+23	ב	ב	PREPOSITION	PREPOSITION		26	prepmod	_	_
+24	יטחון".	יטחון".	NNP	NNP		23	pobj	_	_
+25	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	24	nn	_	_
+26	הוזמן	הוזמן	VB	VB	gen=M|num=S|per=3|tense=PAST	22	conj	_	_
+27	ל	ל	PREPOSITION	PREPOSITION		26	prepmod	_	_
+28	בית	בית	NNT	NNT	gen=M|num=S	27	pobj	_	_
+29	ה	ה	DEF	DEF		30	def	_	_
+30	לבן	לבן	NN	NN	gen=M|num=S	28	gobj	_	_
+31	יחד	ייחד	VB	VB	gen=M|num=S|per=3|tense=PAST	26	xcomp	_	_
+32	עם	עם	IN	IN		31	comp	_	_
+33	יו"ר	יו"ר	NN	NN	gen=M|num=S	32	pobj	_	_
+34	כחול	כחול	JJ	JJ	gen=M|num=S	33	amod	_	_
+35	ל	ל	PREPOSITION	PREPOSITION		31	prepmod	_	_
+36	ה	ה	DEF	DEF		37	def	_	_
+37	בן	בן	NN	NN	gen=M|num=S	35	pobj	_	_
+38	בני	בן	NNT	NNT	gen=M|num=P	31	obj	_	_
+39	גנץ	גנץ	NN	NN	gen=M|num=S	38	gobj	_	_
+40	ב	ב	PREPOSITION	PREPOSITION		31	prepmod	_	_
+41	יום	יום	NNT	NNT	gen=M|num=S	40	pobj	_	_
+42	שלישי	שליש	NN	NN	gen=M|num=P|suf_gen=F|suf_gen=M|suf_num=S|suf_per=1	41	gobj	_	_
+43	ה	ה	DEF	DEF		44	def	_	_
+44	בא	בא	JJ	JJ	gen=M|num=S	41	amod	_	_
+45	לקראת	לקראת	IN	IN		31	prepmod	_	_
+46	הצגת	הצגה	NNT	NNT	gen=F|num=S	45	pobj	_	_
+47	עסקת	עסקה	NNT	NNT	gen=F|num=S	46	gobj	_	_
+48	ה	ה	DEF	DEF		49	def	_	_
+49	מאה	מאה	CD	CD	gen=F|num=P	47	gobj	_	_
+50	של	של	POS	POS		46	posspmod	_	_
+51	ממשל	ממשל	NNT	NNT	gen=M|num=S	50	gobj	_	_
+52	טראמפ.	טראמפ.	NNP	NNP	gen=F|gen=M|num=S	51	gobj	_	_
+
+

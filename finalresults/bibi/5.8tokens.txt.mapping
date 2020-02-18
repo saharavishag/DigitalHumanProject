@@ -1,0 +1,46 @@
+0	1	ראש	ראש	NNT	NNT	gen=M|num=S	1
+1	2	ה	ה	DEF	DEF	_	2
+2	3	ממשלה	ממשלה	NN	NN	gen=F|num=S	2
+3	4	בנימין	בנימין	NNP	NNP	gen=M|num=S	3
+4	5	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	4
+5	6	הודה	הודה	VB	VB	gen=M|num=S|per=3|tense=PAST	5
+6	7	ל	ל	PREPOSITION	PREPOSITION	_	6
+7	8	נשיא	נשיא	NNT	NNT	gen=M|num=S	6
+8	9	רוסיה	רוסי	NN	NN	gen=F|num=S	7
+9	10	ולדימיר	ולדימיר	NNP	NNP	gen=M|num=S	8
+10	11	פוטין	פוטין	NNP	NNP	_	9
+11	12	על	על	IN	IN	_	10
+12	13	החלטתו	החלטה	NN	NN	gen=F|num=S|suf_gen=M|suf_num=S|suf_per=3	11
+13	14	לאשר	אישר	VB	VB	_	12
+14	15	את	את	AT	AT	_	13
+15	16	בקשת	בקשה	NNT	NNT	gen=F|num=S	14
+16	17	ה	ה	DEF	DEF	_	15
+17	18	חנינה	חנינה	NN	NN	gen=F|num=S	15
+18	19	של	של	POS	POS	_	16
+19	20	נעמה	נעמה	NNP	NNP	gen=F|num=S	17
+20	21	יששכר.	יששכר.	NNP	NNP	gen=F|gen=M|num=S	18
+21	22	"אני	"אני	NNP	NNP	gen=F|gen=M|num=S	19
+22	23	מצפה	ציפה	VB	VB	gen=F|num=S|per=A|tense=BEINONI	20
+23	24	ל	ל	PREPOSITION	PREPOSITION	_	21
+24	25	פגישתנו	פגישה	NN	NN	gen=F|num=S|suf_gen=F|suf_gen=M|suf_num=P|suf_per=1	21
+25	26	מחר,	מחר,	NNP	NNP	gen=F|gen=M|num=S	22
+26	27	ב	ב	IN	IN	_	23
+27	28	היא	היא	S_PRN	S_PRN	gen=F|num=S|per=3	23
+28	29	נשוחח	שוחח	VB	VB	gen=F|gen=M|num=P|per=1|tense=FUTURE	24
+29	30	על	על	IN	IN	_	25
+30	31	עסקת	עסקה	NNT	NNT	gen=F|num=S	26
+31	32	ה	ה	DEF	DEF	_	27
+32	33	מאה	מאה	CD	CD	gen=F|num=P	27
+33	34	ו	ו	CONJ	CONJ	_	28
+34	35	על	על	IN	IN	_	28
+35	36	ה	ה	DEF	DEF	_	29
+36	37	התפתחויות	התפתחות	NN	NN	gen=F|num=P	29
+37	38	ה	ה	DEF	DEF	_	30
+38	39	אחרונות	אחרון	JJ	JJ	gen=F|num=P	30
+39	40	ב	ב	PREPOSITION	PREPOSITION	_	31
+40	41	אזור",	אזור",	NNP	NNP	_	31
+41	42	הוסיף	הוסיף	VB	VB	gen=M|num=S|per=3|tense=PAST	32
+42	43	נתניהו.	נתניהו.	NNP	NNP	gen=F|gen=M|num=S	33
+
+
+

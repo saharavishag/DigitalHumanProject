@@ -1,0 +1,46 @@
+1	רשימת	רשימה	NNT	NNT	gen=F|num=S	10	subj	_	_
+2	ימינה	ימין	NN	NN	gen=M|num=S|suf_gen=F|suf_num=S|suf_per=3	1	gobj	_	_
+3	ל	ל	PREPOSITION	PREPOSITION		1	prepmod	_	_
+4	ה	ה	DEF	DEF		5	def	_	_
+5	כנסת	כנסת	NNP	NNP	gen=F|num=S	3	pobj	_	_
+6	ה	ה	DEF	DEF		7	def	_	_
+7	-23		NCD	NCD		5	amod	_	_
+8	הייתה	היה	COP	COP	gen=F|num=S|per=3|tense=PAST	10	cop	_	_
+9	ה	ה	DEF	DEF		10	def	_	_
+10	אחרונה	אחרון	JJ	JJ	gen=F|num=S	22	comp	_	_
+11	ש	ש	REL	REL		10	ccomp	_	_
+12	ה	ה	DEF	DEF		13	def	_	_
+13	וגשה,	וגשה,	NN	NN	gen=M|num=S	14	subj	_	_
+14	סמוך	סמך	BN	BN	gen=M|num=S|per=A	11	ccomp	_	_
+15	ל	ל	PREPOSITION	PREPOSITION		14	comp	_	_
+16	שעה	שעה	NN	NN	gen=F|num=S	15	pobj	_	_
+17	חצות.	חצות.	NNP	NNP	gen=F|gen=M|num=S	16	nn	_	_
+18	ב	ב	PREPOSITION	PREPOSITION		14	prepmod	_	_
+19	ראש	ראש	NNT	NNT	gen=M|num=S	18	pobj	_	_
+20	ה	ה	DEF	DEF		21	def	_	_
+21	רשימה	רשימה	NN	NN	gen=F|num=S	19	gobj	_	_
+22	יעמוד	עמד	VB	VB	gen=M|num=S|per=3|tense=FUTURE	40	hd	_	_
+23	שר	שר	NNT	NNT	gen=M|num=S	22	subj	_	_
+24	ה	ה	DEF	DEF		25	def	_	_
+25	ביטחון	ביטחון	NN	NN	gen=M|num=S	23	gobj	_	_
+26	נפתלי	נפתלי	NNP	NNP	gen=M|num=S	23	nn	_	_
+27	בנט,	בנט,	NNP	NNP	gen=F|gen=M|num=S	26	nn	_	_
+28	אחרי	אחרי	IN	IN		22	prepmod	_	_
+29	הוא	הוא	S_PRN	S_PRN	gen=M|num=S|per=3	28	pobj	_	_
+30	שר	שר	NNT	NNT	gen=M|num=S	40	hd	_	_
+31	ה	ה	DEF	DEF		32	def	_	_
+32	חינוך	חינוך	NN	NN	gen=M|num=S	30	gobj	_	_
+33	רפי	רפי	NNP	NNP	gen=M|num=S	30	nn	_	_
+34	פרץ,	פרץ,	NNP	NNP	gen=F|gen=M|num=S	33	nn	_	_
+35	במקום	במקום	IN	IN		30	prepmod	_	_
+36	ה	ה	DEF	DEF		37	def	_	_
+37	שלישי	שלישי	CD	CD	gen=M|num=S	38	number	_	_
+38	איילת	אייל	NNT	NNT	gen=F|num=S	35	pobj	_	_
+39	שקד	שקד	NN	NN	gen=M|num=S	38	gobj	_	_
+40	ו	ו	CONJ	CONJ		0	ROOT	_	_
+41	אחרי	אחרי	IN	IN		43	prepmod	_	_
+42	היא	היא	S_PRN	S_PRN	gen=F|num=S|per=3	41	pobj	_	_
+43	בצלאל	בצלאל	NNP	NNP	gen=M|num=S	40	hd	_	_
+44	סמוטריץ'.	סמוטריץ'.	NNP	NNP	gen=F|gen=M|num=S	43	nn	_	_
+
+

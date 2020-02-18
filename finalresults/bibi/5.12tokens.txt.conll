@@ -1,0 +1,48 @@
+1	ראש	ראש	NNT	NNT	gen=M|num=S	6	subj	_	_
+2	ה	ה	DEF	DEF		3	def	_	_
+3	ממשלה	ממשלה	NN	NN	gen=F|num=S	1	gobj	_	_
+4	בנימין	בנימין	NNP	NNP	gen=M|num=S	1	nn	_	_
+5	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	4	nn	_	_
+6	נחת	ניחת	VB	VB	gen=M|num=S|per=3|tense=PAST	19	posspmod	_	_
+7	ב	ב	PREPOSITION	PREPOSITION		6	prepmod	_	_
+8	ה	ה	DEF	DEF		9	def	_	_
+9	אנטבה	אנטבה	NN	NN	gen=M|num=S	7	pobj	_	_
+10	ש	ש	REL	REL		9	rcmod	_	_
+11	ב	ב	PREPOSITION	PREPOSITION		10	relcomp	_	_
+12	אוגנדה.	אוגנדה.	NNP	NNP		11	pobj	_	_
+13	ב	ב	PREPOSITION	PREPOSITION		6	prepmod	_	_
+14	ה	ה	DEF	DEF		15	def	_	_
+15	מהלך	מהלך	NN	NN	gen=M|num=S	13	pobj	_	_
+16	ביקורו	ביקור	NN	NN	gen=M|num=S|suf_gen=M|suf_num=S|suf_per=3	6	obj	_	_
+17	צפוי	צפוי	JJ	JJ	gen=M|num=S	16	amod	_	_
+18	נתניהו	נתניהו	NNP	NNP	gen=M|num=S	16	nn	_	_
+19	להיפגש	נפגש	VB	VB		24	conj	_	_
+20	ה	ה	DEF	DEF		21	def	_	_
+21	נשיא	נשיא	NN	NN	gen=M|num=S	19	subj	_	_
+22	יוורי	יוורי	NNP	NNP	gen=M|num=S	21	nn	_	_
+23	מוסווני	מוסווני	NNP	NNP	gen=F|gen=M|num=S	22	nn	_	_
+24	ו	ו	CONJ	CONJ		0	ROOT	_	_
+25	ראש	ראש	NNT	NNT	gen=M|num=S	24	conj	_	_
+26	ה	ה	DEF	DEF		27	def	_	_
+27	ממשלה	ממשלה	NN	NN	gen=F|num=S	25	gobj	_	_
+28	רוהאקנה	רוהאקנה	NNP	NNP	gen=F|gen=M|num=S	25	nn	_	_
+29	רוגונדה.	רוגונדה.	NNP	NNP	gen=F|gen=M|num=S	28	nn	_	_
+30	בנוסף	בנוסף	RB	RB		25	mod	_	_
+31	הוא	הוא	PRP	PRP	gen=M|num=S|per=3	32	subj	_	_
+32	צפוי	צפוי	MD	MD	gen=M|num=S|tense=BEINONI	25	relcomp	_	_
+33	להיפגש	נפגש	VB	VB		32	xcomp	_	_
+34	גם	גם	RB	RB		35	mod	_	_
+35	עם	עם	IN	IN		33	comp	_	_
+36	כמה	כמה	DTT	DTT		37	det	_	_
+37	מנהיגים	מנהיג	NN	NN	gen=M|num=P	35	pobj	_	_
+38	מ	מ	PREPOSITION	PREPOSITION		37	prepmod	_	_
+39	מדינות	מדינה	NN	NN	gen=F|num=P	38	pobj	_	_
+40	ש	ש	REL	REL		37	rcmod	_	_
+41	אינן	אינו	COP	COP	gen=F|num=P|per=3	42	neg	_	_
+42	מקיימות	קיים	BN	BN	gen=F|num=P|per=A	40	relcomp	_	_
+43	יחסים	יחסים	NN	NN	gen=M|num=P	42	obj	_	_
+44	רשמיים	רשמי	JJ	JJ	gen=M|num=P	43	amod	_	_
+45	עם	עם	IN	IN		42	prepmod	_	_
+46	ישראל.	ישראל.	NNP	NNP	gen=F|gen=M|num=S	45	pobj	_	_
+
+

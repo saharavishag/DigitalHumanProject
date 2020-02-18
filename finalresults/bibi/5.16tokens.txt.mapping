@@ -1,0 +1,40 @@
+0	1	ישראל	ישראל	NNP	NNP	gen=F|num=S	1
+1	2	תקפיא	הקפיא	VB	VB	gen=F|num=S|per=3|tense=FUTURE	2
+2	3	את	את	AT	AT	_	3
+3	4	ה	ה	DEF	DEF	_	4
+4	5	קשרים	קשר	NN	NN	gen=M|num=P	4
+5	6	עם	עם	IN	IN	_	5
+6	7	נציבות	נציבה	NNT	NNT	gen=F|num=P	6
+7	8	זכויות	זכות	NNT	NNT	gen=F|num=P	7
+8	9	ה	ה	DEF	DEF	_	8
+9	10	אדם	אדם	NN	NN	gen=M|num=S	8
+10	11	של	של	POS	POS	_	9
+11	12	ה	ה	DEF	DEF	_	10
+12	13	או"ם,	או"ם,	NN	NN	gen=M|num=S	10
+13	14	בעקבות	בעקבות	IN	IN	_	11
+14	15	פרסום	פרסום	NNT	NNT	gen=M|num=S	12
+15	16	"הרשימה	"הרשימה	NN	NN	gen=M|num=S	13
+16	17	ה	ה	DEF	DEF	_	14
+17	18	שחורה"	שחורה"	NN	NN	gen=M|num=S	14
+18	19	של	של	POS	POS	_	15
+19	20	ה	ה	DEF	DEF	_	16
+20	21	עסקים	עסק	NN	NN	gen=M|num=P	16
+21	22	ה	ה	DEF	DEF	_	17
+22	23	קשורים	קשור	JJ	JJ	gen=M|num=P	17
+23	24	ל	ל	PREPOSITION	PREPOSITION	_	18
+24	25	התנחלויות.	התנחלויות.	NNP	NNP	_	18
+25	26	ה	ה	DEF	DEF	_	19
+26	27	החלטה	החלטה	NN	NN	gen=F|num=S	19
+27	28	התקבלה	התקבל	VB	VB	gen=F|num=S|per=3|tense=PAST	20
+28	29	ב	ב	PREPOSITION	PREPOSITION	_	21
+29	30	הנחיית	הנחיה	NNT	NNT	gen=F|num=S	21
+30	31	ראש	ראש	NNT	NNT	gen=M|num=S	22
+31	32	ה	ה	DEF	DEF	_	23
+32	33	ממשלה	ממשלה	NN	NN	gen=F|num=S	23
+33	34	ב	ב	PREPOSITION	PREPOSITION	_	24
+34	35	ה	ה	DEF	DEF	_	24
+35	36	נימין	הימין	VB	VB	gen=F|gen=M|num=P|per=1|tense=FUTURE	24
+36	37	נתניהו.	נתניהו.	NNP	NNP	gen=F|gen=M|num=S	25
+
+
+

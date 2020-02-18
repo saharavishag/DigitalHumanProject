@@ -1,0 +1,42 @@
+1	יו"ר	יו"ר	NN	NN	gen=M|num=S	6	subj	_	_
+2	כחול	כחול	JJ	JJ	gen=M|num=S	1	amod	_	_
+3	לבן	לבן	JJ	JJ	gen=M|num=S	1	amod	_	_
+4	בני	בני	NNP	NNP	gen=M|num=S	1	hd	_	_
+5	גנץ	גנץ	NNP	NNP	gen=F|gen=M|num=S	4	nn	_	_
+6	אמר	אמר	VB	VB	gen=M|num=S|per=3|tense=PAST	0	ROOT	_	_
+7	כי	כי	CC	CC		6	comp	_	_
+8	פרסום	פרסום	NNT	NNT	gen=M|num=S	20	subj	_	_
+9	"הרשימה	"הרשימה	NNP	NNP	gen=F|gen=M|num=S	8	gobj	_	_
+10	השחורה"	השחורה"	NNP	NNP	gen=F|gen=M|num=S	9	nn	_	_
+11	של	של	POS	POS		8	posspmod	_	_
+12	נציבות	נציבות	NNT	NNT	gen=F|num=S	11	gobj	_	_
+13	זכויות	זכות	NNT	NNT	gen=F|num=P	12	gobj	_	_
+14	ה	ה	DEF	DEF		15	def	_	_
+15	אדם	אדם	NN	NN	gen=M|num=S	13	gobj	_	_
+16	של	של	POS	POS		13	posspmod	_	_
+17	ה	ה	DEF	DEF		18	def	_	_
+18	או"ם	או"ם	NN	NN	gen=F|num=S	16	gobj	_	_
+19	היא	הוא	COP	COP	gen=F|num=S|per=3	20	cop	_	_
+20	"יום	"יום	NN	NN	gen=M|num=S	36	complmn	_	_
+21	שחור	שחור	JJ	JJ	gen=M|num=S	20	amod	_	_
+22	ל	ל	PREPOSITION	PREPOSITION		20	prepmod	_	_
+23	זכויות	זכות	NNT	NNT	gen=F|num=P	22	pobj	_	_
+24	ה	ה	DEF	DEF		25	def	_	_
+25	אדם".	אדם".	NN	NN	gen=M|num=S	23	gobj	_	_
+26	ל	ל	PREPOSITION	PREPOSITION		25	prepmod	_	_
+27	דברי	דבר	NNT	NNT	gen=M|num=P	26	pobj	_	_
+28	גנץ,	גנץ,	NNP	NNP	gen=F|gen=M|num=S	27	gobj	_	_
+29	"נציבות	"נציבות	NNP	NNP	gen=F|gen=M|num=S	28	nn	_	_
+30	זכויות	זכות	NNT	NNT	gen=F|num=P	36	subj	_	_
+31	ה	ה	DEF	DEF		32	def	_	_
+32	אדם	אדם	NN	NN	gen=M|num=S	30	gobj	_	_
+33	של	של	POS	POS		30	posspmod	_	_
+34	ה	ה	DEF	DEF		35	def	_	_
+35	או"ם	או"ם	NNP	NNP	gen=F|gen=M|num=S	33	gobj	_	_
+36	איבדה	איבד	VB	VB	gen=F|num=S|per=3|tense=PAST	7	ccomp	_	_
+37	קשר	קשר	NN	NN	gen=M|num=S	36	obj	_	_
+38	ל	ל	PREPOSITION	PREPOSITION		37	prepmod	_	_
+39	ה	ה	DEF	DEF		40	def	_	_
+40	מציאות".	מציאות".	NN	NN	gen=M|num=P	38	pobj	_	_
+
+
