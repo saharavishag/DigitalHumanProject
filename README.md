@@ -1,5 +1,10 @@
 # DigitalHumanProject
 
+## Summary
+
+## Related source
+http://www.tsarfaty.com/pdfs/acl13.pdf
+
 ### activate venv
 
 python3.7 -m venv venv3
