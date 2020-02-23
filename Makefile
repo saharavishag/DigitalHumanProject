@@ -19,15 +19,22 @@ extract-tokens:
 apply-yap:
 	. applyYap.sh
 
-reset:
+delete-results:
 	rm -R content
 	rm -R tokens
 	rm -R lattice
 	rm -R finalresults
+
+restart:
+	rm -R content
+	rm -R tokens
+	rm -R lattice
+	rm -R finalresults
+	python3 ./NewsApi/GetNews.py
+	python3 ./ExtractTokens/ExtractTokens.py
+	. applyYap.sh
 	
 start:
-	reset
-	api-data
-	extract-tokens
-	apply-yap
-	
+	python3 ./NewsApi/GetNews.py
+	python3 ./ExtractTokens/ExtractTokens.py
+	. applyYap.sh
