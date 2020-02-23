@@ -2,7 +2,11 @@
 
 ## Summary
 This project is related to the course "Subjects in Digital humanities".
-In this project I hoped to achive a
+In this project I hoped to achive a knowledge about how Isreali politicians are being reviewed in the new apps.
+
+In order to do that, we’ll need to understand the context of the articles about them.
+
+We’ll understant the context by extracting adjectives from the articles.
 
 #
 
